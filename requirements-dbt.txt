@@ -1,0 +1,5 @@
+dbt-core
+
+# Optional helpers useful during development
+pyyaml
+sqlparse

@@ -1,0 +1,6 @@
+# Virtual env for dbt and snowflake project
+env-dbt/
+
+# Python caches
+__pycache__/
+*.pyc
