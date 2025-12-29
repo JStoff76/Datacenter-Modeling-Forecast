@@ -4,3 +4,13 @@ env-dbt/
 # Python caches
 __pycache__/
 *.pyc
+*.pyo
+
+# Local environment
+.env
+
+# Output data
+data/out/
+
+# VSCode or IDE
+.vscode/
