@@ -1,0 +1,108 @@
+rule_name,pattern,product_group,priority
+group_mpo_core,"\bMPO(?:[-\s]?(?:MPO|PRO|[0-9]{2}(?:F)?))?\b",MPO_Group,10
+group_mpo_wide,"\bMPO(?:-MPO)?\b|MPO[ -]?PRO|MPO\d{0,2}\b",MPO_Group,10
+group_mpo_any2,\bMPO(?:-MPO)?\b|MPO[ -]?PRO,MPO_Group,10
+group_mtp_any2,\bMTP(?:\((?:F|M)\))?\b|MTP[ -]?PRO,MTP_Group,11
+group_mtp_core,"\bMTP(?:\((?:F|M)\))?(?:\s*PRO)?\b",MTP_Group,11
+group_mtp_numeric,\bMTP\d+\b,MTP_Group,11
+group_mtp_wide,"\bMTP(?:\((?:F|M)\))?\b|MTP[ -]?PRO|MTP\d{1,2}\((?:F|M)\)",MTP_Group,11
+group_mtp_any,\bMTP(?:\d+)?(?:\([FM]\))?\b,MTP_Group,11
+group_mmc_core,(?<![A-Z0-9])MMC(?![A-Z0-9]),MMC_Group,12
+group_mmc_core,"\bMMC(?:\((?:F|M)\))?\b",MMC_Group,12
+group_mxc,"\bMXC\b",Other_MultiFiber,15
+group_dmx,"\bDMX\b",Other_MultiFiber,15
+group_mb_series,"\bMB(?:\(\d+\))?\b",Other_MultiFiber,16
+group_mp_hyphen,"\bMP-\b",Other_MultiFiber,16
+group_ebo_ebx,"\bEB[OX]\b",EBO_Group,20
+group_ebo_core,(?<![A-Z0-9])EBO(?![A-Z0-9])|EBX,EBO_Group,20
+group_optical_module_strong,\b(EDFA|OADM|ROADM|WSS|DWDM|SWDM|MUX)\b,Optical_Module,25
+group_optical_passives_strong,\b(PLC|LPTC|SWFC|UWFC|COUPLER|SPLITTER|1X2|50/50|30/70)\b,Optical_Passives,26
+group_lc_pair,"\bLC\s*[-/]\s*LC(?:D)?\b",LC_Variants,30
+group_lc_dpx,"\bLC[-\s]?(?:DU?P(?:LEX|X)?|DPX|DP)\b",LC_Variants,30
+group_lc_quad,"\bLC\s*QUAD\b",LC_Variants,30
+group_lc_apc,"\bLC(?:\s*[-/])?APC\b",LC_Variants,30
+group_lc_upc,"\bLC(?:\s*[-/])?UPC\b",LC_Variants,30
+group_components_hw,"(?<![A-Z])(SCR(?:EW)?|NUT|STANDOFF|WASHER|INSERT|NYLOK|BRACKET|PLATE|CLIP)(?![A-Z])",Components_Passive,30
+group_lc_variants_more,\bLC(?:[-/ ]?(?:UPC|APC|PC|DPX?|D|QUAD|DUP|U|2\+?))?\b|LCD\b|LC-LC\b|LCD-LCD\b,LC_Variants,30
+group_lc_spc,\bLC/ ?SPC\b,LC_Variants,30
+group_lc_wide,\bLC(?:[-/ ]?(?:UPC|APC|PC|DPX?|D|QUAD|DUP|U|2\+?))?\b|\bLCD\b|LC[-/ ]LC|LCD[-/ ]LCD,LC_Variants,30
+group_adapter_strong,\b(ADAPT(?:ER|OR|R)?|RECEPTACLE|DUST ?CAP|SHIELD ASSEMBLY|MOUNTING PLATE)\b,Accessories,31
+group_lc_lcd,"\bLCD\b",LC_Variants,31
+group_lc_lcu,"\b(?:LCU|CONN[-\s]?LCU)\b",LC_Variants,31
+group_lc_amp,"\bLC[-\s]?AMP\b",LC_Variants,31
+group_lc_miscx,"\bX-?LC(?:D{1,2})?\b",LC_Variants,31
+group_lc_generic,"\bLC(?![A-Z0-9])\b",LC_Variants,32
+group_lc_clean,\bLC([-/\s]|$),LC_Variants,32
+group_adapters_core,"(?<![A-Z])(ADAPT(?:ER|OR|R)?|RECEPTACLE|DUST ?CAP|MOUNTING PLATE|SHIELD ASSEMBLY)(?![A-Z])",Other_Connector_Types,34
+group_lc_variants_cords,"(?=.*\bLC(?:D|U|UNI)?\b)(?=.*\b(JPR|JUMPER|PATCH|PCORD|CBL|CABLE)\b)",LC_Variants,35
+group_sc_apc,"\bSC(?:\s*[-/])?APC\b",Other_Connector_Types,40
+group_sc_upc,"\bSC(?:\s*[-/])?UPC\b",Other_Connector_Types,40
+group_sc_generic,"\bSC(?![A-Z0-9])\b",Other_Connector_Types,41
+group_fc_generic,"\bFC(?![A-Z0-9])\b",Other_Connector_Types,40
+group_st_generic,"\bST(?![A-Z0-9])\b",Other_Connector_Types,40
+group_e2000,"\bE2000\b",Other_Connector_Types,40
+group_cs,"\bCS(?![A-Z0-9])\b",Other_Connector_Types,40
+group_sn,"\bSN(?![A-Z0-9])\b",Other_Connector_Types,40
+group_sc_variants,\bSC(?:D|/?(?:APC|UPC))?\b,Other_Connector_Types,40
+group_st_variants,\bST\b,Other_Connector_Types,40
+group_fc_variants,\bFC[0-9]*\b,Other_Connector_Types,40
+group_cs_variants,\bCS(?:\b|[-/ ]),Other_Connector_Types,40
+group_mtrj,\bMTRJ\b,Other_Connector_Types,40
+group_other_connectors,\b(E2000|SN|SPC|PLC|SCF|SCD|SCM|UTMA|FPC)\b,Other_Connector_Types,40
+group_scd_variants,\bSCD(?:90)?\b,Other_Connector_Types,40
+group_sc_slash_pc,\bSC/ ?(?:APC|UPC|PC)\b,Other_Connector_Types,40
+group_qsfp_any,\bQSFP(?:28|56|112)?\b,Transceiver_Rating,50
+group_cs_clean,\bCS([-/\s]|$),Other_Connector_Types,40
+group_sc_family,\bSC(?:[-/ ]?(?:UPC|APC|PC))?\b|SCD(?:90)?,Other_Connector_Types,40
+group_fc_st_family,(?<![A-Z0-9])(FC|ST)(?:[-/ ]?(UPC|APC|PC))?(?![A-Z0-9]),Other_Connector_Types,40
+group_cs_core,(?<![A-Z0-9])CS(?![A-Z0-9]),Other_Connector_Types,40
+group_mtrj_core,(?<![A-Z0-9])MTRJ(?![A-Z0-9]),Other_Connector_Types,40
+group_cs_strict,(?<![A-Z0-9])CS(?=(?:[-/ ]?(?:UPC|APC|LC|DU|UNIBOOT|UNI|PCORD|PATCH|JUMPER|JPR|2F|4F|8F)))(?![A-Z0-9]),Other_Connector_Types,40
+group_sc_family,\bSC(?:[-/ ]?(?:UPC|APC|PC))?\b|\bSCD(?:90)?\b,Other_Connector_Types,40
+group_fc_family,(?<![A-Z0-9])FC(?![A-Z0-9]),Other_Connector_Types,40
+group_st_family,(?<![A-Z0-9])ST(?![A-Z0-9]),Other_Connector_Types,40
+group_cs_family,(?<![A-Z0-9])CS(?![A-Z0-9]),Other_Connector_Types,40
+group_spc,"\bSPC\b",Other_Connector_Types,41
+group_plc,"\bPLC\b",Other_Connector_Types,41
+group_scf,"\bSCF\b",Other_Connector_Types,41
+group_scd,"\bSCD\b",Other_Connector_Types,41
+group_scm,"\bSCM\b",Other_Connector_Types,41
+group_utma,"\bUTMA\b",Other_Connector_Types,41
+group_fpc,"\bFPC\b",Other_Connector_Types,41
+group_qsfp_all,"\bQSFP(?:-?DD\+?|\+{1,2}|-?28|D\+?)?\b",Transceiver_Rating,50
+group_osfp,"\bOSFP\b",Transceiver_Rating,50
+group_sfp_all,"\bSFP\+?\b",Transceiver_Rating,50
+group_xfp,"\bXFP\+?\b",Transceiver_Rating,50
+group_aoc,"\bAOC\b",Transceiver_Rating,50
+group_dac,"\bDAC\b",Transceiver_Rating,50
+group_wdm,"\bWDM\b",Transceiver_Rating,50
+group_transceiver_more,"\b(QSFP(?:\+{0,2}|-?DD\+?)|OSFP|SFP\+?|XFP|AOC|DAC|WDM)\b",Transceiver_Rating,50
+group_transceiver_wide,"\b(QSFP(?:\+{0,2}|-?DD\+?)|OSFP|SFP\+?|XFP|AOC|DAC|WDM)\b",Transceiver_Rating,50
+group_adapter_accessories,\b(ADAPT(?:ER|OR|R)?S?|COUPLERS?)\b,Accessories,60
+family_components_active,"(?<![A-Z])(IC|MOSFET|ADC|REG(?:ULATOR)?|OSC|DIODE|OP ?AMP)(?![A-Z])",Components_Passive,62
+group_comp_cap_cer,\bCAP\b.*\b(CER|X7R|C0G|MLCC)\b,Components_Passive,62
+group_comp_ferrite_ind,\b(FERRITE\s*BEAD|FIXED\s+IND|INDUCTOR)\b,Components_Passive,64
+group_comp_ferrite_ind,\b(FERRITE\s*BEAD|FIXED\s+IND|INDUCTOR)\b,Components_Passive,64
+group_shuffle_strong,\b(SHORT\s+SHUFFLE|LONG\s+SHUFFLE|SHUFFLE\s+CABLE|SHUFFLE\b),Shuffle_Cables,65
+group_optpass_filter_band,\b(C\+L|C\s*BAND|L\s*BAND|BAND|FILTER)\b,Optical_Passives,66
+group_optpass_splitters,\b(1X2|5X40|SPLITTER|COUPLER|SWFC\s*1X2|UWFC\s*1X2|SWFC|UWFC)\b,Optical_Passives,66
+group_optpass_plc,"(?<![A-Z])(PLC|SWFC|UWFC|COUPLER)(?![A-Z])",Optical_Passives,66
+group_optpass_bands,"(?<![A-Z])(C\+L|C\s*BAND|L\s*BAND|FILTER)(?![A-Z])",Optical_Passives,66
+group_circ_iso,\b(CIRCULATOR|ISOLATOR)\b,Circulators_Isolators,66
+group_optpass_plc,"(?<![A-Z])(PLC|SWFC|UWFC|COUPLER)(?![A-Z])",Optical_Passives,66
+group_optpass_bands,"(?<![A-Z])(C\+L|C\s*BAND|L\s*BAND|FILTER)(?![A-Z])",Optical_Passives,66
+group_switch_mems,\bMEMS\s*SWITCH\b,Switches,68
+group_pcba_module,\b(PCBA|PCB(?!O)|MODULE|MDL|BOX)\b,PCBA_Module,68
+group_comp_thermal,\bTHERMAL\s*PAD\b,Components_Passive,70
+group_comp_thermal_pad,\bTHERM(?:AL)?\s*[- ]?PAD(S)?\b,Components_Passive,70
+group_comp_res_generic,\b(RES(?!IN)|OHM)\b,Components_Passive,72
+group_switch_generic,\bSWITCH\b,Switches,72
+group_comp_cap_tokens,\b(CER|X7R|C0G)\b,Components_Passive,72
+group_comp_smd,\bSMD\b,Components_Passive,74
+group_comp_hw,\b(STDOFF|NYLOK|CLIP)\b,Components_Passive,76
+group_comp_screw,\b(SCREW|SCR)\b,Components_Passive,76
+group_comp_pump,\bPUMPS?\b,Components_Passive,78
+group_feature_pinout,\bPIN[-\s]?OUTS?\b,Pinout_Feature,90
+family_hardware_misc,"(?<![A-Z])(SCR(?:EW)?|NUT|STANDOFF|WASHER|INSERT|NYLOK|CLIP)(?![A-Z])",Accessories,90
+
+

@@ -1,0 +1,56 @@
+rule_name,pattern,product_family,length_m,priority
+family_pigtail,"\bpigtails?\b",Pigtails,,10
+family_trunk,"(?<!micro)\btrunks?\b|\btrunk\s*(?:cables?|cbls?)\b",Trunk_Group,,15
+family_splitter,"\b(?:y[-\s]?splitter|split(?:ter)?)(?:\s*cables?|s)?\b",Splitter_Cables,,18
+family_shuffle,"\bshuffle(?:[-\s]?cables?)?\b",Shuffle_Cables,,20
+family_patchcord,"(?:\bpatch\s*c(?:ord)?s?\b|\bpatch\s*cables?\b|\bjumpers?\b)",Jumpers,,22
+family_patchcord_pc,\bPCORDS?\b,Jumpers,,22
+family_optical_sys_strong,\b(EDFA|OADM|ROADM|WSS|DWDM|SWDM|MUX)\b,Optical_Module,,25
+family_split_sleeve,"(?<![A-Z])SPLIT\s+SLEEVE(?![A-Z])",Accessories,,26
+family_optical_passives_strong,\b(PLC|LPTC|SWFC|UWFC|COUPLER|SPLITTER|1X2|50/50|30/70)\b,Optical_Passives,,26
+family_adapters_core,"(?<![A-Z])(ADAPT(?:ER|OR|R)?|RECEPTACLE|COUPLERS?)(?![A-Z])",Adapters,,28
+family_breakout,"\b(?:fan[-\s]?out|break[-\s]?out)\b",Breakout,,28
+family_adapters_core,"(?<![A-Z])(ADAPT(?:ER|OR|R)?|RECEPTACLE|COUPLERS?)(?![A-Z])",Adapters,,28
+family_adapters_more,\b(ADAPT(?:ER|OR|R)?|RECEPTACLE|DUST ?CAP|DOOR|SHIELD ASSEMBLY|MOUNTING PLATE)\b,Adapters,,30
+family_adapter,"\b(?:adapters?|adap|ADAPTR|adaptr|ADAPTER|ADP|ADPT|adp|couplers?)\b",Adapters,,30
+family_accessories_caps,"(?<![A-Z])(DUST ?CAP|BOOT|BEND ?LIMITER|LATCH(?: HOUSING)?|HOUSING|DOOR)(?![A-Z])",Accessories,,32
+family_accessories_caps,"(?<![A-Z])(DUST ?CAP|BOOT|BEND ?LIMITER|LATCH(?: HOUSING)?|HOUSING)(?![A-Z])",Accessories,,32
+family_jumpers_sn,"(?<![A-Z])SN[-/ ]?UPC.*PCORD(?![A-Z])",Jumpers,,34
+family_jumpers_pcord,"(?<![A-Z])PCORDS?(?![A-Z])",Jumpers,,34
+family_jumpers_cs_lc,"(?=.*\bCS\b)(?=.*\bLC(?:D|U|UNI)?\b)(?=.*\b(JPR|JUMPER|PATCH|PCORD)\b)",Jumpers,,34
+family_jumpers_pcord,"(?<![A-Z])PCORDS?(?![A-Z])",Jumpers,,34
+family_harness,"\bharness(?:es)?\b",Harness,,35
+family_pigtail_shorthand,"(?<![A-Z])PTL(?![A-Z])",Pigtails,,36
+family_optpass_core,"(?<![A-Z])(PLC|SWFC|UWFC|COUPLER|FILTER|C\+L|C\s*BAND|L\s*BAND)(?![A-Z])",Optical_Passives,,38
+family_loopback,"\bloopbacks?\b",Loopback_Group,,40
+family_optical_modules,\b(EDFA|OADM|SWDM|MUX)\b,Optical_Module,,55
+family_optical_sys,\b(EDFA|OADM|SWDM|MUX)\b,Optical_Module,,55
+family_optical_modules2,(?<![A-Z])(EDFA|OADM|SWDM|MUX)(?![A-Z]),Optical_Module,,55
+family_module_cassette,(?<![A-Z])(CASS(?:ETTE)?|MODULE|MDL)(?![A-Z]),Optical_Module,,58
+family_connector_components,"(?<![A-Z])(CONNECTOR|CONN)(?![A-Z])",Accessories,,60
+family_trunks_core2,(?<![A-Z0-9])TRUNKS?(?:[ -]?(?:CABLE|CBL))?(?![A-Z0-9]),Trunks,,62
+family_pigtails_core2,(?<![A-Z0-9])PIGTAILS?(?![A-Z0-9]),Pigtails,,63
+family_patchcords_core,(?<![A-Z])PATCH(?:[ -]?CORD|[ -]?CABLE)?(?![A-Z]),Jumpers,,66
+family_splitter_core2,(?<![A-Z])(?:SPLITTER|Y[ -]?SPLITTER|SPLIT[ -]?CABLE)(?![A-Z]),Splitter_Cables,,68
+family_shuffle_core2,(?<![A-Z])SHUFFLE(?:[ -]?CABLE)?(?![A-Z]),Shuffle_Cables,,70
+family_jumpers_core,\b(JM?PR|DXJP|ZIP)\b,Jumpers,,65
+family_jumpers_core,\b(JMP?PR|DXJP|ZIP)\b,Jumpers,,65
+family_jumper_words,\b(JUMPER|JUMPR|JPR|JMPR|ZIP)\b,Jumpers,,65
+family_jumpers_core,\b(JUMPER|JUMPR|JPR|JMPR|DXJP|ZIP)\b,Jumpers,,65
+family_jumpers_core2,(?<![A-Z0-9])(JUMPER|JUMPR|JPR|JMPR|DXJP|ZIP)(?![A-Z0-9]),Jumpers,,65
+family_harness_tether2,(?<![A-Z])(TETHER|FLEXPLANE)(?![A-Z]),Harness_Tether,,75
+family_harness_tether,\b(TETHER|FLEXPLANE)\b,Harness_Tether,,75
+family_harness_more,\b(FLEXPLANE|HARNESS|TETHER)\b,Harness_Tether,,75
+family_cleaning_kits,\b(CLEAN(ING|ER| TOOL| KIT)?|DUST ?CAPS?)\b,Accessories,,85
+family_housing_mech,\b(HOUSING|LATCH HOUSING)\b,Accessories,,85
+family_connector_housing,\b(CONNECTOR HOUSING)\b,Accessories,,85
+family_accessory_kit,\b(BULK KIT|KIT)\b,Accessories,,85
+family_clean_more,\b(CLEAN(?:ING|ER)?|DUST ?CAP)\b,Accessories,,85
+family_accessories_core,\b(CLEAN(?:ING|ER| TOOL| KIT)?|DUST ?CAP|HOUSING|LATCH HOUSING)\b,Accessories,,85
+family_connector_housing,\b(CONNECTOR HOUSING)\b,Accessories,,85
+family_accessories_core2,(?<![A-Z])(CLEAN(?:ING|ER)?|DUST ?CAP|HOUSING|LATCH HOUSING)(?![A-Z]),Accessories,,85
+family_connector_housing2,(?<![A-Z])(CONNECTOR HOUSING)(?![A-Z]),Accessories,,85
+family_accessories_boots,(?<![A-Z])(DUST ?CAP|BOOT|BEND ?LIMITER|LATCH(?: HOUSING)?|HOUSING)(?![A-Z]),Accessories,,86
+family_accessories_adapters,\b(ADAPT(?:ER|OR|R)?S?|COUPLERS?)\b,Accessories,,85
+family_components_thermal_pad,\bTHERM(?:AL)?\s*[- ]?PAD(S)?\b,Accessories,,85
+family_components_screws,\b(SCREW|SCR)\b,Accessories,,85

@@ -1,0 +1,2241 @@
+ORDER_TYPE_CODE,ORDER_TYPE_DESC,SALES_ORG_CODE,SALES_ORG_DESC,DIST_CHANNEL_CODE,DIST_CHANNEL_DESC
+ZE30,S.Agr.- 3rd party Sh,3100,United States,01,Distribtn Channel 01
+ZGSR,Global Std Return,3330,CVS Mexico,01,Sales
+ZRE,Molex  Return wo ref,8160,SDP Telecom,01,Sales
+ZAZU,Con.P/U extagt.-U.S.,2400,Hong Kong/China Ltd,01,Sales
+ZXSO,Free replace order,2800,China Trading Co.,01,Sales
+ZRI,vmi nonsales return,2800,China Trading Co.,01,Distribtn Channel 01
+ZCMX,InterCo Credit Memo,2700,China 4 - ChengDu,01,Distribtn Channel 01
+ZDRK,Poland Corr. Debit,5900,Molex Sp. Z o o.,01,Sales
+ZE01,EDI Std Order 01,3330,CVS Mexico,01,Sales
+ZICP,Int Consign Pick-up,2200,Korea,01,Sales
+ZGQP,Global Quotation,5700,Bretten,01,Distribtn Channel 01
+ZGIR,Global Invt Return,1400,Malaysia,01,Sales
+ZE20,S.Agr.-direct ship,3100,United States,01,Distribtn Channel 01
+ZXSR,Return free of charg,1500,Thailand,01,Sales
+ZRI,vmi nonsales return,1100,Japan,01,Sales
+ZCMR,Credit Memo Request,5500,Ettlingen,01,Sales
+ZPDM,Proj Debit Memo Req,5100,MIGMBH,01,Distribtn Channel 01
+ZICP,Int Consign Pick-up,1000,Dalian,01,Sales
+ZRI,vmi nonsales return,1300,Taiwan,01,Sales
+ZRE,Molex  Return wo ref,2900,Molex Philippines,01,Sales
+ZAZU,Con.P/U extagt.-U.S.,6200,Ireland,01,Distribtn Channel 01
+ZPCM,Proj Credit Memo Req,5100,MIGMBH,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,3800,US Temp-Flex,01,Distribtn Channel 01
+ZGQP,Global Quotation,8000,Zetronic S.r.l.,01,Distribtn Channel 01
+ZGTP,Global 3rd party ord,2700,China 4 - ChengDu,01,Sales
+ZE20,S.Agr.-direct ship,5100,MIGMBH,01,Distribtn Channel 01
+ZE20,S.Agr.-direct ship,5100,MIGMBH,01,Sales
+ZECP,Ext Consign Pick-up,7800,Woodhead France WIC,01,Sales
+ZE20,S.Agr.-direct ship,5100,Molex Interconnect,01,Sales
+ZICI,Int Consign Iss. imm,3100,United States,01,Sales
+ZXSR,Return free of charg,2200,Korea,01,Sales
+ZGSE,Global Slow & Excess,6100,Molex CES Poland,01,Distribtn Channel 01
+B2,Rebate Correctn Rqst,4000,Woodhead Canada,01,Distribtn Channel 01
+ZGRE,Drp Cred (Dumy Dely),2200,Korea,01,Distribtn Channel 01
+ZGSE,Global Slow & Excess,6200,Ireland,01,Distribtn Channel 01
+ZECR,Ext Consign Returns,1700,China 1I - Dongguan,01,Sales
+ZSDR,Serv Debit Request,4000,Molex Canada Ltd.,01,Distribtn Channel 01
+ZPSC,Proj Serv Credit Req,2800,China Trading Co.,01,Distribtn Channel 01
+ZPSC,Proj Serv Credit Req,2800,China Trading Co.,01,Sales
+ZPDM,Proj Debit Memo Req,5100,Molex Interconnect,01,Distribtn Channel 01
+ZGSE,Global Slow & Excess,6100,Molex CES Poland,01,Sales
+ZGS1,Sample Order Oplink,5100,MIGMBH,01,Sales
+ZSP,Sample Order,4000,Woodhead Canada,01,Sales
+ZECF,Ext Consign Fill-up,1700,China 1I - Dongguan,01,Sales
+ZE01,EDI Std Order 01,1200,Singapore,01,Sales
+ZGSO,Global Std Order,5100,Molex Interconnect,01,Distribtn Channel 01
+ZGSS,Global Sample Order,1200,Singapore,01,Distribtn Channel 01
+ZGSS,Global Sample Order,1700,China 1I - Dongguan,01,Sales
+ZECI,Ext Consign Issue,1200,Singapore,01,Sales
+ZICI,Int Consign Iss. imm,1200,Singapore,01,Distribtn Channel 01
+ZGSR,Global Std Return,1100,Japan,01,Sales
+ZGOT,Molex Scrap Sales,1200,Singapore,01,Sales
+ZVDR,Vendor Return,1100,Japan,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,2400,Hong Kong,01,Distribtn Channel 01
+ZGSS,Global Sample Order,3100,United States,01,Sales
+ZECI,Ext Consign Issue,5100,Molex Interconnect,01,Sales
+ZE01,EDI Std Order 01,6830,Molex Cables Italy,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,3100,United States,01,Sales
+ZDMR,Debit Memo Request,5100,Molex Interconnect,01,Sales
+ZGSR,Global Std Return,8110,Molex (China) Invst.,01,Sales
+ZGSS,Global Sample Order,3100,United States,01,Distribtn Channel 01
+ZECD,Drop Consign Fill-up,3100,United States,01,Distribtn Channel 01
+ZECD,Drop Consign Fill-up,3100,United States,01,Sales
+ZCMR,Credit Memo Request,2800,China Trading Co.,01,Sales
+TAV,Standard Order (VMI),5100,MIGMBH,01,Sales
+ZE01,EDI Std Order 01,4000,Molex Canada Ltd.,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,2800,China Trading Co.,01,Sales
+ZGSO,Global Std Order,8140,Oplink ZhuHai,01,Distribtn Channel 01
+ZGSS,Global Sample Order,2700,China 4 - ChengDu,01,Distribtn Channel 01
+ZOR,Molex Standard Order,3100,United States,01,Sales
+ZGSO,Global Std Order,6830,Molex Cables Italy,01,Sales
+ZGTG,Global 3rd pty gold,3100,United States,01,Distribtn Channel 01
+ZGSO,Global Std Order,5900,Molex Sp. Z o o.,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,2800,China Trading Co.,01,Distribtn Channel 01
+ZECD,Drop Consign Fill-up,2800,China Trading Co.,01,Distribtn Channel 01
+Z11R,ze11 into Cons Rtns,2400,Hong Kong,01,Distribtn Channel 01
+ZGPM,Molex Scrap Pre.Mtl,3100,United States,01,Distribtn Channel 01
+ZGQP,Global Quotation,1500,Thailand,01,Distribtn Channel 01
+Z11R,ze11 into Cons Rtns,2200,Korea,01,Distribtn Channel 01
+ZICF,Int Consign Fill-up,2200,Korea,01,Sales
+ZGSR,Global Std Return,2100,CFPA-Taiwan,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,1700,China 1I - Dongguan,01,Sales
+ZGHK,HK/SHG Std Order,3560,Interconnect Systems,01,Distribtn Channel 01
+ZSCR,Serv Credit Request,3560,Interconnect Systems,01,Sales
+ZGSS,Global Sample Order,4000,Molex Canada Ltd.,01,Distribtn Channel 01
+ZECF,Ext Consign Fill-up,1400,Malaysia,01,Sales
+ZDEP,India Depot Sales,8200,India - Bangalore,01,Sales
+ZGPS,Global Project Order,8520,PMC Suzhou PMMC,01,Sales
+ZGPM,Molex Scrap Pre.Mtl,6200,Ireland,01,Sales
+ZICF,Int Consign Fill-up,5100,Molex Interconnect,01,Distribtn Channel 01
+ZPSC,Proj Serv Credit Req,5100,Molex Interconnect,01,Sales
+ZGQP,Global Quotation,1600,China 1- Dongguan,01,Sales
+ZE01,EDI Std Order 01,1500,Thailand,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,2100,CFPA-Taiwan,01,Sales
+ZCMR,Credit Memo Request,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZGQP,Global Quotation,5100,MIGMBH,01,Sales
+ZGQP,Global Quotation,5100,Molex Interconnect,01,Distribtn Channel 01
+ZDEP,India Depot Sales,8200,India - Bangalore,01,Distribtn Channel 01
+LZM,SchedAgrt w/Dly Ord.,5100,MIGMBH,01,Sales
+KL,Deliv.Free of Charge,3100,United States,01,Distribtn Channel 01
+ZCCI,InterCo S&D Cr Memo,5900,Molex Sp. Z o o.,01,Sales
+ZGSO,Global Std Order,2200,Korea,01,Sales
+ZSED,Del.by ExtAgt.- U.S.,5100,MIGMBH,01,Sales
+ZGSS,Global Sample Order,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,1200,Singapore,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,4000,Molex Canada Ltd.,01,Distribtn Channel 01
+ZGSS,Global Sample Order,1400,Malaysia,01,Sales
+ZSF,Sales Force Order,2400,Hong Kong/China Ltd,01,Sales
+ZPRD,DM P.O.T. Br-DC,3100,United States,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,3100,United States,01,Sales
+ZGPM,Molex Scrap Pre.Mtl,1200,Singapore,01,Sales
+ZCRK,Poland Corr. Credit,5900,Molex Sp. Z o o.,01,Sales
+ZOR,Molex Standard Order,3100,United States,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,2400,Hong Kong,01,Sales
+ZISR,India  Return w/ex,8200,India - Bangalore,01,Sales
+ZCMR,Credit Memo Request,4000,Woodhead Canada,01,Distribtn Channel 01
+ZGIT,Global Invt Transfer,2700,China 4 - ChengDu,01,Sales
+TAM,Delivery Order,5100,MIGMBH,01,Distribtn Channel 01
+ZE13,S.Agr.ExAg.- w/ATP,3100,United States,01,Sales
+ZGSO,Global Std Order,2100,CFPA-Taiwan,01,Sales
+ZGOT,Molex Scrap Sales,1300,Taiwan,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,5900,Molex Sp. Z o o.,01,Sales
+ZE12,S.Agr.- w/ATP,2400,Hong Kong,01,Sales
+ZGQP,Global Quotation,5600,Biberach,01,Sales
+ZRE,Molex  Return wo ref,2200,Korea,01,Sales
+ZGPS,Global Project Order,8520,PMC Suzhou PMMC,01,Distribtn Channel 01
+ZE15,S.Agr.Planning -Auto,2400,Hong Kong,01,Distribtn Channel 01
+ZGTT,Tool Ord Yrly Bill,1000,Dalian,01,Distribtn Channel 01
+ZCMI,Pl Corr. Cred interc,5900,Molex Sp. Z o o.,01,Distribtn Channel 01
+ZGQP,Global Quotation,1000,Dalian,01,Sales
+ZGQP,Global Quotation,3200,Brasil,01,Sales
+ZCMR,Credit Memo Request,6200,Ireland,01,Sales
+ZIQR,InterCompany Quote,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZIQR,InterCompany Quote,1200,Singapore,01,Sales
+TA,Standard Order,8800,India Tooling,01,Distribtn Channel 01
+ZECP,Ext Consign Pick-up,1100,Japan,01,Distribtn Channel 01
+ZGSO,Global Std Order,2300,RF/Micro - Jiangsu,01,Sales
+ZE14,S.Agr.EXt/ATP / JIT,1400,Malaysia,01,Distribtn Channel 01
+ZGSR,Global Std Return,2900,Molex Philippines,01,Sales
+ZCMI,Pl Corr. Cred interc,5900,Molex Sp. Z o o.,01,Sales
+ZPGR,Proj Global Std Ret,3100,United States,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,6880,Molex HDC Italy,01,Sales
+ZGTX,Hist. Monthly Lease,3100,United States,01,Distribtn Channel 01
+ORB,Standard order BR,3200,Brasil,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,8000,Molex Zetronic,01,Distribtn Channel 01
+ZSCR,Serv Credit Request,5100,Molex Interconnect,01,Distribtn Channel 01
+ZGPS,Global Project Order,8670,PMC Suzhou PMTC,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,2200,Korea,01,Sales
+ZGSS,Global Sample Order,8140,Oplink ZhuHai,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,3750,Omni Mfg Services S.,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,2500,Original Shanghai,01,Distribtn Channel 01
+ZICF,Int Consign Fill-up,1200,Singapore,01,Distribtn Channel 01
+TAM,Delivery Order,8200,India - Bangalore,01,Distribtn Channel 01
+ZIQR,InterCompany Quote,2600,China 3 - WGC,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,8200,India - Bangalore,01,Distribtn Channel 01
+AG,Quotation,1400,Malaysia,01,Distribtn Channel 01
+ZICI,Int Consign Iss. imm,1300,Taiwan,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,4000,Molex Canada Ltd.,01,Sales
+ZRE,Molex  Return wo ref,3750,Omni Mfg Services S.,01,Distribtn Channel 01
+ZECF,Ext Consign Fill-up,2200,Korea,01,Sales
+ZGSR,Global Std Return,1400,Malaysia,01,Distribtn Channel 01
+ZPGR,Proj Global Std Ret,3100,United States,01,Sales
+ZE14,S.Agr.EXt/ATP / JIT,5100,MIGMBH,01,Sales
+ZE15,S.Agr.Planning -Auto,5100,MIGMBH,01,Sales
+ZGQV,DM Global Quotation,4000,Molex Canada Ltd.,01,Distribtn Channel 01
+ZGSS,Global Sample Order,3080,Woodhead Industries,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,6100,Molex CES Poland,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,5700,Bretten,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,2800,China Trading Co.,01,Distribtn Channel 01
+ZGSR,Global Std Return,6200,Ireland,01,Distribtn Channel 01
+LZM,SchedAgrt w/Dly Ord.,5100,Molex Interconnect,01,Distribtn Channel 01
+ZGIQ,Renewal Inquiry,3100,United States,01,Sales
+ZGQV,DM Global Quotation,3560,Interconnect Systems,01,Sales
+ZE12,S.Agr.- w/ATP,2600,China 3 - WGC,01,Sales
+ZE11,S.Agr.- w/ATP interc,1200,Singapore,01,Sales
+AG,Quotation,5100,MIGMBH,01,Sales
+ZDMR,Debit Memo Request,1500,Thailand,01,Distribtn Channel 01
+ZGSO,Global Std Order,1600,China 1- Dongguan,01,Distribtn Channel 01
+ZGFR,Global Freight Order,5100,MIGMBH,01,Distribtn Channel 01
+ZIQR,InterCompany Quote,3100,United States,01,Sales
+ZGQP,Global Quotation,5500,Ettlingen,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,1400,Malaysia,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,2100,CFPA-Taiwan,01,Sales
+ZICP,Int Consign Pick-up,2800,China Trading Co.,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,8790,PMC Suzhou P3,01,Sales
+ZIQR,InterCompany Quote,5600,Biberach,01,Sales
+ZPLN,Planning,2800,China Trading Co.,01,Distribtn Channel 01
+ZPLN,Planning,2800,China Trading Co.,01,Sales
+ZGSO,Global Std Order,5800,Kosice,01,Distribtn Channel 01
+ZGPM,Molex Scrap Pre.Mtl,2100,CFPA-Taiwan,01,Sales
+ZRE,Molex  Return wo ref,2400,Hong Kong,01,Sales
+ZRE,Molex  Return wo ref,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+Z11R,ze11 into Cons Rtns,6100,Molex CES Poland,01,Distribtn Channel 01
+ZE15,S.Agr.Planning -Auto,1000,Dalian,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,1500,Thailand,01,Distribtn Channel 01
+ZXSO,Free replace order,4000,Woodhead Canada,01,Distribtn Channel 01
+ZGSR,Global Std Return,8790,PMC Suzhou P3,01,Sales
+ZGQV,DM Global Quotation,8000,Molex Zetronic,01,Sales
+ZSRZ,Returns Sched.Agrmnt,3100,United States,01,Distribtn Channel 01
+ZE11,S.Agr.- w/ATP interc,5500,Ettlingen,01,Sales
+ZECP,Ext Consign Pick-up,8140,Oplink ZhuHai,01,Distribtn Channel 01
+ZECP,Ext Consign Pick-up,8140,Oplink ZhuHai,01,Sales
+ZCMR,Credit Memo Request,1500,Thailand,01,Sales
+ZXSR,Return free of charg,1700,China 1I - Dongguan,01,Sales
+ZICR,Int Consign Returns,5100,MIGMBH,01,Sales
+ZSCR,Serv Credit Request,2400,Hong Kong,01,Sales
+ZPLN,Planning,1200,Singapore,01,Sales
+ZGRE,Drp Cred (Dumy Dely),5600,Biberach,01,Distribtn Channel 01
+ZSED,Del.by ExtAgt.- U.S.,5500,Ettlingen,01,Sales
+ZPLN,Planning,1200,Singapore,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,6200,Ireland,01,Distribtn Channel 01
+ZJ01,Global Std Order,5100,MIGMBH,01,Distribtn Channel 01
+ZPSC,Proj Serv Credit Req,3750,Omni Mfg Services S.,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,8800,India Tooling,01,Distribtn Channel 01
+ZGSO,Global Std Order,3800,US Temp-Flex,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,5600,Biberach,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,2700,China 4 - ChengDu,01,Sales
+ZCR,Credit Memo nonsales,2200,Korea,01,Sales
+ZGSR,Global Std Return,5800,Kosice,01,Sales
+ZGSS,Global Sample Order,5600,Biberach,01,Distribtn Channel 01
+ZCMT,Tooling Credit memo,1100,Japan,01,Sales
+ZECF,Ext Consign Fill-up,2300,RF/Micro - Jiangsu,01,Distribtn Channel 01
+ZGIR,Global Invt Return,2600,China 3 - WGC,01,Distribtn Channel 01
+ZICF,Int Consign Fill-up,2400,Hong Kong/China Ltd,01,Sales
+ZICP,Int Consign Pick-up,5100,Molex Interconnect,01,Sales
+ZRE,Molex  Return wo ref,1100,Japan,01,Sales
+ZICP,Int Consign Pick-up,5100,MIGMBH,01,Distribtn Channel 01
+ZDMX,InterCo Debit Memo,6200,Ireland,01,Distribtn Channel 01
+ZGSE,Global Slow & Excess,8110,Molex (China) Invst.,01,Sales
+ZECP,Ext Consign Pick-up,1300,Taiwan,01,Distribtn Channel 01
+ZGSR,Global Std Return,8520,PMC Suzhou PMMC,01,Distribtn Channel 01
+ZXSR,Return free of charg,3750,Omni Mfg Services S.,01,Sales
+ZSF,Sales Force Order,8160,SDP Telecom,01,Distribtn Channel 01
+ZICR,Int Consign Returns,2800,China Trading Co.,01,Distribtn Channel 01
+ZDMX,InterCo Debit Memo,2700,China 4 - ChengDu,01,Distribtn Channel 01
+ZDMX,InterCo Debit Memo,2700,China 4 - ChengDu,01,Sales
+ZGRE,Drp Cred (Dumy Dely),2400,Hong Kong/China Ltd,01,Sales
+ZXSO,Free replace order,1200,Singapore,01,Distribtn Channel 01
+ZGTP,Global 3rd party ord,5100,MIGMBH,01,Distribtn Channel 01
+ZICR,Int Consign Returns,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZICR,Int Consign Returns,8110,Molex (China) Invst.,01,Sales
+ZOR,Molex Standard Order,4000,Woodhead Canada,01,Sales
+ZSCR,Serv Credit Request,4000,Molex Canada Ltd.,01,Distribtn Channel 01
+ZXSR,Return free of charg,3800,US Temp-Flex,01,Sales
+ZDMR,Debit Memo Request,5900,Molex Sp. Z o o.,01,Sales
+ZECR,Ext Consign Returns,1400,Malaysia,01,Sales
+ZE13,S.Agr.ExAg.- w/ATP,5100,Molex Interconnect,01,Distribtn Channel 01
+B2,Rebate Correctn Rqst,3100,United States,01,Distribtn Channel 01
+ZCMX,InterCo Credit Memo,8140,Oplink ZhuHai,01,Sales
+ZRI,vmi nonsales return,2300,RF/Micro - Jiangsu,01,Distribtn Channel 01
+ZSPI,Spec. Price Request,1400,Malaysia,01,Sales
+ZGTT,Tool Ord Yrly Bill,3560,Interconnect Systems,01,Distribtn Channel 01
+ZGPS,Global Project Order,6340,Phillips Medisize CZ,01,Distribtn Channel 01
+ZGRE,Drp Cred (Dumy Dely),5800,Kosice,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,6200,Ireland,01,Sales
+ZGSS,Global Sample Order,5800,Kosice,01,Distribtn Channel 01
+ZSED,Del.by ExtAgt.- U.S.,6200,Ireland,01,Sales
+ZICF,Int Consign Fill-up,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZXSO,Free replace order,2800,China Trading Co.,01,Distribtn Channel 01
+LZM,SchedAgrt w/Dly Ord.,2800,China Trading Co.,01,Sales
+ZXSO,Free replace order,3800,US Temp-Flex,01,Sales
+ZRI,vmi nonsales return,2300,RF/Micro - Jiangsu,01,Sales
+ZICF,Int Consign Fill-up,8110,Molex (China) Invst.,01,Sales
+ZPDM,Proj Debit Memo Req,5100,MIGMBH,01,Sales
+ZGIT,Global Invt Transfer,5600,Biberach,01,Sales
+ZPDR,Proj Serv Debit Req,8520,PMC Suzhou PMMC,01,Sales
+ZSDR,Serv Debit Request,4000,Molex Canada Ltd.,01,Sales
+ZECR,Ext Consign Returns,1500,Thailand,01,Distribtn Channel 01
+ZGPM,Molex Scrap Pre.Mtl,2700,China 4 - ChengDu,01,Distribtn Channel 01
+ZSED,Del.by ExtAgt.- U.S.,6200,Ireland,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,8800,India Tooling,01,Sales
+ZXSO,Free replace order,5100,Molex Interconnect,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,1300,Taiwan,01,Sales
+ZICP,Int Consign Pick-up,1000,Dalian,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,5500,Ettlingen,01,Distribtn Channel 01
+ZSF,Sales Force Order,8200,India - Bangalore,01,Sales
+ZGSE,Global Slow & Excess,4000,Molex Canada Ltd.,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,1300,Taiwan,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,8200,India - Bangalore,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,2700,China 4 - ChengDu,01,Sales
+ZGSS,Global Sample Order,1300,Taiwan,01,Distribtn Channel 01
+ZICF,Int Consign Fill-up,1100,Japan,01,Sales
+ZGHK,HK/SHG Std Order,1200,Singapore,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,2200,Korea,01,Sales
+ZE01,EDI Std Order 01,1100,Japan,01,Sales
+ZE01,EDI Std Order 01,2600,China 3 - WGC,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,2600,China 3 - WGC,01,Sales
+ZE01,EDI Std Order 01,2100,CFPA-Taiwan,01,Distribtn Channel 01
+ZICI,Int Consign Iss. imm,2800,China Trading Co.,01,Distribtn Channel 01
+ZCCR,CRM S&D Cr Memo,3100,United States,01,Sales
+ZSED,Del.by ExtAgt.- U.S.,1200,Singapore,01,Distribtn Channel 01
+ZGSO,Global Std Order,8200,India - Bangalore,01,Distribtn Channel 01
+ZGSS,Global Sample Order,4000,Woodhead Canada,01,Distribtn Channel 01
+ZGPR,Global Project Order,6100,Molex CES Poland,01,Distribtn Channel 01
+Z11R,ze11 into Cons Rtns,3100,United States,01,Distribtn Channel 01
+ZGSR,Global Std Return,2400,Hong Kong/China Ltd,01,Sales
+ZGSR,Global Std Return,3100,United States,01,Distribtn Channel 01
+ZECF,Ext Consign Fill-up,2200,Korea,01,Distribtn Channel 01
+ZICI,Int Consign Iss. imm,2800,China Trading Co.,01,Sales
+ZSCR,Serv Credit Request,3100,United States,01,Sales
+Z11R,ze11 into Cons Rtns,5100,Molex Interconnect,01,Distribtn Channel 01
+ZGSO,Global Std Order,2800,China Trading Co.,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,5900,Molex Sp. Z o o.,01,Distribtn Channel 01
+BM1,Agrmnt Deb.Memo Req.,4000,Molex Canada Ltd.,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,4000,Woodhead Canada,01,Sales
+ZSED,Del.by ExtAgt.- U.S.,3100,United States,01,Sales
+ZICF,Int Consign Fill-up,2200,Korea,01,Distribtn Channel 01
+Z11R,ze11 into Cons Rtns,1200,Singapore,01,Sales
+ZGTP,Global 3rd party ord,1100,Japan,01,Sales
+ZE14,S.Agr.EXt/ATP / JIT,2400,Hong Kong,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,2800,China Trading Co.,01,Sales
+ZECP,Ext Consign Pick-up,1700,China 1I - Dongguan,01,Sales
+ZICF,Int Consign Fill-up,1200,Singapore,01,Sales
+ZICP,Int Consign Pick-up,8110,Molex (China) Invst.,01,Sales
+ZE12,S.Agr.- w/ATP,2800,China Trading Co.,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,4000,Molex Canada Ltd.,01,Sales
+ZGSR,Global Std Return,2700,China 4 - ChengDu,01,Distribtn Channel 01
+ZGIT,Global Invt Transfer,1100,Japan,01,Sales
+ZGOT,Molex Scrap Sales,8000,Molex Zetronic,01,Sales
+ZGSO,Global Std Order,3100,United States,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,8110,Molex (China) Invst.,01,Sales
+ZGSR,Global Std Return,1100,Japan,01,Distribtn Channel 01
+ZECR,Ext Consign Returns,2400,Hong Kong,01,Sales
+ZCMR,Credit Memo Request,2100,CFPA-Taiwan,01,Distribtn Channel 01
+ZE11,S.Agr.- w/ATP interc,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,8200,India - Bangalore,01,Sales
+ZGHK,HK/SHG Std Order,3100,United States,01,Distribtn Channel 01
+ZGSO,Global Std Order,8140,Oplink ZhuHai,01,Sales
+ZGPS,Global Project Order,5100,Molex Interconnect,01,Sales
+ZGSS,Global Sample Order,3800,US Temp-Flex,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,8670,PMC Suzhou PMTC,01,Distribtn Channel 01
+ZSCR,Serv Credit Request,1200,Singapore,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,8140,Oplink ZhuHai,01,Distribtn Channel 01
+ZGQP,Global Quotation,2400,Hong Kong/China Ltd,01,Sales
+TAM,Delivery Order,3100,United States,01,Sales
+ZE14,S.Agr.EXt/ATP / JIT,5500,Ettlingen,01,Distribtn Channel 01
+ZGSR,Global Std Return,6200,Ireland,01,Sales
+ZE13,S.Agr.ExAg.- w/ATP,1200,Singapore,01,Distribtn Channel 01
+ZGSS,Global Sample Order,1300,Taiwan,01,Sales
+ZRZU,ConsRet.extagt.-U.S.,3100,United States,01,Distribtn Channel 01
+ZGSO,Global Std Order,1000,Dalian,01,Sales
+ZCMR,Credit Memo Request,2200,Korea,01,Sales
+ZE01,EDI Std Order 01,1500,Thailand,01,Sales
+ZGSS,Global Sample Order,5100,MIGMBH,01,Distribtn Channel 01
+ZECI,Ext Consign Issue,2200,Korea,01,Sales
+ZCMR,Credit Memo Request,5100,Molex Interconnect,01,Sales
+ZECF,Ext Consign Fill-up,3100,United States,01,Sales
+ZGOT,Molex Scrap Sales,8000,Zetronic S.r.l.,01,Distribtn Channel 01
+ZGSR,Global Std Return,4000,Molex Canada Ltd.,01,Distribtn Channel 01
+ZOR,Molex Standard Order,5100,MIGMBH,01,Sales
+ZDMR,Debit Memo Request,1700,China 1I - Dongguan,01,Sales
+ZE14,S.Agr.EXt/ATP / JIT,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,2400,Hong Kong/China Ltd,01,Sales
+ZE11,S.Agr.- w/ATP interc,1400,Malaysia,01,Sales
+ZGQV,DM Global Quotation,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZGHK,HK/SHG Std Order,2600,China 3 - WGC,01,Distribtn Channel 01
+ZE11,S.Agr.- w/ATP interc,2800,China Trading Co.,01,Sales
+ZCMR,Credit Memo Request,8100,MCES Australia,01,Distribtn Channel 01
+ZICP,Int Consign Pick-up,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,1200,Singapore,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZDR,Debit Memo Request,1400,Malaysia,01,Distribtn Channel 01
+ZGSS,Global Sample Order,2600,China 3 - WGC,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,1200,Singapore,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,2200,Korea,01,Distribtn Channel 01
+ZGSR,Global Std Return,2600,China 3 - WGC,01,Sales
+ZE11,S.Agr.- w/ATP interc,2400,Hong Kong/China Ltd,01,Sales
+ZGSO,Global Std Order,8000,Zetronic S.r.l.,01,Sales
+ZGQP,Global Quotation,1200,Singapore,01,Distribtn Channel 01
+ZSCR,Serv Credit Request,5100,MIGMBH,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,4000,Woodhead Canada,01,Sales
+ZGSO,Global Std Order,8520,PMC Suzhou PMMC,01,Distribtn Channel 01
+ZE11,S.Agr.- w/ATP interc,1200,Singapore,01,Distribtn Channel 01
+ZGHK,HK/SHG Std Order,2700,China 4 - ChengDu,01,Sales
+ZCMR,Credit Memo Request,3560,Interconnect Systems,01,Distribtn Channel 01
+ZECF,Ext Consign Fill-up,8160,SDP Telecom,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,2300,RF/Micro - Jiangsu,01,Sales
+ZGPS,Global Project Order,6190,Medisize OY,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,8790,PMC Suzhou P3,01,Sales
+ZE13,S.Agr.ExAg.- w/ATP,2400,Hong Kong,01,Sales
+ZE11,S.Agr.- w/ATP interc,3100,United States,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,6200,Ireland,01,Distribtn Channel 01
+ZGIQ,Renewal Inquiry,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,2100,CFPA-Taiwan,01,Distribtn Channel 01
+ZGIQ,Renewal Inquiry,1500,Thailand,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,8140,Oplink ZhuHai,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,8670,PMC Suzhou PMTC,01,Sales
+ZGSR,Global Std Return,1300,Taiwan,01,Sales
+ZGSS,Global Sample Order,0900,FEML Far East,01,Sales
+ZPDR,Proj Serv Debit Req,3750,Omni Mfg Services S.,01,Sales
+ZGQS,Sys. Sales Quote,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ORB,Standard order BR,3200,Brasil,01,Sales
+ZSP,Sample Order,3100,United States,01,Sales
+ZSDR,Serv Debit Request,8110,Molex (China) Invst.,01,Sales
+ZGQV,DM Global Quotation,8200,India - Bangalore,01,Distribtn Channel 01
+ZXSO,Free replace order,8140,Oplink ZhuHai,01,Distribtn Channel 01
+ZECI,Ext Consign Issue,8160,SDP Telecom,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,1700,China 1I - Dongguan,01,Sales
+ZGSR,Global Std Return,6830,Molex Cables Italy,01,Sales
+TAM,Delivery Order,1200,Singapore,01,Sales
+ZIQR,InterCompany Quote,2600,China 3 - WGC,01,Sales
+ZIQR,InterCompany Quote,5100,Molex Interconnect,01,Sales
+ZGPR,Global Project Order,3100,United States,01,Distribtn Channel 01
+ZGQP,Global Quotation,6200,Ireland,01,Sales
+ZGTY,Hist. Yearly Lease,3100,United States,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,2400,Hong Kong,01,Distribtn Channel 01
+LZM,SchedAgrt w/Dly Ord.,1100,Japan,01,Sales
+ZGQV,DM Global Quotation,8100,MCES Australia,01,Sales
+ZECP,Ext Consign Pick-up,8110,Molex (China) Invst.,01,Sales
+ZGQP,Global Quotation,5500,Ettlingen,01,Sales
+ZSF,Sales Force Order,4000,Molex Canada Ltd.,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,8200,India - Bangalore,01,Distribtn Channel 01
+ZECI,Ext Consign Issue,5100,MIGMBH,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZAZU,Con.P/U extagt.-U.S.,5100,MIGMBH,01,Sales
+ZE01,EDI Std Order 01,3750,Omni Mfg Services S.,01,Sales
+ZCMR,Credit Memo Request,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZGSO,Global Std Order,2400,Hong Kong/China Ltd,01,Sales
+ZE13,S.Agr.ExAg.- w/ATP,1400,Malaysia,01,Sales
+ZGQV,DM Global Quotation,2800,China Trading Co.,01,Sales
+MAKO,Dely Order Correctn,5100,MIGMBH,01,Distribtn Channel 01
+ZGSR,Global Std Return,2800,China Trading Co.,01,Distribtn Channel 01
+ZICP,Int Consign Pick-up,1100,Japan,01,Sales
+ZGPS,Global Project Order,6120,Phillips Medisize Sl,01,Sales
+ZGSS,Global Sample Order,2100,CFPA-Taiwan,01,Sales
+ZSDR,Serv Debit Request,1200,Singapore,01,Distribtn Channel 01
+ZGS1,Sample Order Oplink,8140,Oplink ZhuHai,01,Sales
+ZSDR,Serv Debit Request,2200,Korea,01,Distribtn Channel 01
+ZGSR,Global Std Return,8140,Oplink ZhuHai,01,Distribtn Channel 01
+ZGSE,Global Slow & Excess,3100,United States,01,Sales
+ZGQV,DM Global Quotation,6830,Molex Cables Italy,01,Distribtn Channel 01
+ZXSR,Return free of charg,5100,MIGMBH,01,Sales
+ZGQP,Global Quotation,2600,China 3 - WGC,01,Sales
+ZGHK,HK/SHG Std Order,8140,Oplink ZhuHai,01,Distribtn Channel 01
+TAM,Delivery Order,1400,Malaysia,01,Sales
+LZM,SchedAgrt w/Dly Ord.,5500,Ettlingen,01,Distribtn Channel 01
+LZM,SchedAgrt w/Dly Ord.,5500,Ettlingen,01,Sales
+ZGPM,Molex Scrap Pre.Mtl,1900,Vietnam,01,Sales
+ZIQR,InterCompany Quote,5600,Biberach,01,Distribtn Channel 01
+ZGQP,Global Quotation,1100,Japan,01,Distribtn Channel 01
+ZGQP,Global Quotation,8200,India - Bangalore,01,Sales
+ZE15,S.Agr.Planning -Auto,5100,Molex Interconnect,01,Sales
+ZE15,S.Agr.Planning -Auto,1100,Japan,01,Sales
+LZM,SchedAgrt w/Dly Ord.,8200,India - Bangalore,01,Sales
+ZGQP,Global Quotation,6200,Ireland,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,2800,China Trading Co.,01,Sales
+ZE12,S.Agr.- w/ATP,2200,Korea,01,Distribtn Channel 01
+LZM,SchedAgrt w/Dly Ord.,8000,Zetronic S.r.l.,01,Distribtn Channel 01
+ZGHK,HK/SHG Std Order,3560,Interconnect Systems,01,Sales
+ZE01,EDI Std Order 01,3750,Omni Mfg Services S.,01,Distribtn Channel 01
+ZIQR,InterCompany Quote,2400,Hong Kong/China Ltd,01,Sales
+ZRI,vmi nonsales return,5500,Ettlingen,01,Distribtn Channel 01
+ZRI,vmi nonsales return,5500,Ettlingen,01,Sales
+ZSF,Sales Force Order,5100,Molex Interconnect,01,Sales
+ZGIQ,Renewal Inquiry,1400,Malaysia,01,Distribtn Channel 01
+ZXSR,Return free of charg,5100,Molex Interconnect,01,Distribtn Channel 01
+ZGSR,Global Std Return,6830,Molex Cables Italy,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,3750,Omni Mfg Services S.,01,Sales
+ZGSS,Global Sample Order,8520,PMC Suzhou PMMC,01,Sales
+KL,Deliv.Free of Charge,3100,United States,01,Sales
+ZAZU,Con.P/U extagt.-U.S.,1400,Malaysia,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,1300,Taiwan,01,Distribtn Channel 01
+ZICF,Int Consign Fill-up,5100,MIGMBH,01,Sales
+ZIT,Molex Invt Transfer,6200,Ireland,01,Sales
+ZDMX,InterCo Debit Memo,5900,Molex Sp. Z o o.,01,Distribtn Channel 01
+ZGSO,Global Std Order,3330,CVS Mexico,01,Sales
+ZGQP,Global Quotation,3100,United States,01,Sales
+ZSF,Sales Force Order,2200,Korea,01,Sales
+ZGQS,Sys. Sales Quote,1300,Taiwan,01,Sales
+ZSP,Sample Order,1200,Singapore,01,Distribtn Channel 01
+TAM,Delivery Order,1200,Singapore,01,Distribtn Channel 01
+ZPSC,Proj Serv Credit Req,3100,United States,01,Sales
+ZGSR,Global Std Return,1600,China 1- Dongguan,01,Distribtn Channel 01
+ZGRE,Drp Cred (Dumy Dely),4000,Woodhead Canada,01,Sales
+ZGSO,Global Std Order,5800,Kosice,01,Sales
+ZGPM,Molex Scrap Pre.Mtl,1400,Malaysia,01,Sales
+ZE15,S.Agr.Planning -Auto,1000,Dalian,01,Sales
+ZE01,EDI Std Order 01,3400,PMC Costa Mesa,01,Distribtn Channel 01
+LZM,SchedAgrt w/Dly Ord.,1300,Taiwan,01,Sales
+LZM,SchedAgrt w/Dly Ord.,2200,Korea,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,8160,SDP Telecom,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,8160,SDP Telecom,01,Sales
+ZIT,Molex Invt Transfer,5900,Molex Sp. Z o o.,01,Distribtn Channel 01
+ZGRE,Drp Cred (Dumy Dely),5700,Bretten,01,Distribtn Channel 01
+ZRZU,ConsRet.extagt.-U.S.,5100,Molex Interconnect,01,Sales
+ZHKR,HK/SHG Order Return,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZHKR,HK/SHG Order Return,2400,Hong Kong/China Ltd,01,Sales
+ZSDR,Serv Debit Request,1700,China 1I - Dongguan,01,Sales
+ZGSO,Global Std Order,6300,Medisize Ireland LTD,01,Sales
+ZSCR,Serv Credit Request,2400,Hong Kong,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,1500,Thailand,01,Distribtn Channel 01
+ZSP,Sample Order,5100,Molex Interconnect,01,Distribtn Channel 01
+ZJ01,Global Std Order,5100,MIGMBH,01,Sales
+ZCR,Credit Memo nonsales,1200,Singapore,01,Distribtn Channel 01
+ZAZU,Con.P/U extagt.-U.S.,2200,Korea,01,Distribtn Channel 01
+ZGIT,Global Invt Transfer,1400,Malaysia,01,Distribtn Channel 01
+ZSCR,Serv Credit Request,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,8140,Oplink ZhuHai,01,Distribtn Channel 01
+ZPLN,Planning,2400,Hong Kong,01,Sales
+ZECI,Ext Consign Issue,6100,Molex CES Poland,01,Sales
+ZICF,Int Consign Fill-up,2400,Hong Kong,01,Distribtn Channel 01
+ZICF,Int Consign Fill-up,2400,Hong Kong,01,Sales
+ZGSE,Global Slow & Excess,8100,MCES Australia,01,Sales
+ZE01,EDI Std Order 01,5500,Ettlingen,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,3100,United States,01,Distribtn Channel 01
+ZGSE,Global Slow & Excess,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZGSR,Global Std Return,8520,PMC Suzhou PMMC,01,Sales
+ZJ01,Global Std Order,1200,Singapore,01,Distribtn Channel 01
+ZGPS,Global Project Order,2800,China Trading Co.,01,Sales
+ZE15,S.Agr.Planning -Auto,1200,Singapore,01,Distribtn Channel 01
+ZECI,Ext Consign Issue,3100,United States,01,Distribtn Channel 01
+ZICR,Int Consign Returns,2800,China Trading Co.,01,Sales
+ZOR,Molex Standard Order,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZJ01,Global Std Order,2400,Hong Kong,01,Sales
+B1,Rebate Cred Memo Rqt,1200,Singapore,01,Distribtn Channel 01
+ZRI,vmi nonsales return,2900,Molex Philippines,01,Distribtn Channel 01
+ZJ01,Global Std Order,2400,Hong Kong/China Ltd,01,Sales
+ZDMR,Debit Memo Request,3330,CVS Mexico,01,Sales
+ZORC,Consign Molex BR,3200,Brasil,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,5900,Molex Sp. Z o o.,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,5700,Bretten,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,8200,India - Bangalore,01,Sales
+ZDR,Debit Memo Request,1200,Singapore,01,Sales
+ZGSO,Global Std Order,2500,Original Shanghai,01,Sales
+ZXSR,Return free of charg,3200,Brasil,01,Sales
+ZSDR,Serv Debit Request,3800,US Temp-Flex,01,Sales
+ZCMC,Cr.Memo for Pay Card,3100,United States,01,Distribtn Channel 01
+ZICI,Int Consign Iss. imm,8200,India - Bangalore,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,8790,PMC Suzhou P3,01,Distribtn Channel 01
+ZXSR,Return free of charg,3080,Woodhead Industries,01,Sales
+ZDMR,Debit Memo Request,8790,PMC Suzhou P3,01,Sales
+ZPSC,Proj Serv Credit Req,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZGSR,Global Std Return,7800,Woodhead France WIC,01,Distribtn Channel 01
+B2,Rebate Correctn Rqst,4000,Woodhead Canada,01,Sales
+ZE11,S.Agr.- w/ATP interc,8000,Zetronic S.r.l.,01,Sales
+ZDR,Debit Memo Request,8100,MCES Australia,01,Sales
+ZXSO,Free replace order,3800,US Temp-Flex,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,8140,Oplink ZhuHai,01,Sales
+ZOR,Molex Standard Order,1100,Japan,01,Sales
+ZECF,Ext Consign Fill-up,1300,Taiwan,01,Sales
+ZGS1,Sample Order Oplink,5100,MIGMBH,01,Distribtn Channel 01
+ZXSO,Free replace order,5100,MIGMBH,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,8140,Oplink ZhuHai,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,7800,Woodhead France WIC,01,Distribtn Channel 01
+ZGS1,Sample Order Oplink,5100,Molex Interconnect,01,Sales
+ZGIR,Global Invt Return,2700,China 4 - ChengDu,01,Sales
+ZDMR,Debit Memo Request,2700,China 4 - ChengDu,01,Sales
+ZRE,Molex  Return wo ref,8000,Zetronic S.r.l.,01,Sales
+ZRE,Molex  Return wo ref,8160,SDP Telecom,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,6300,Medisize Ireland LTD,01,Sales
+ZE13,S.Agr.ExAg.- w/ATP,6830,Molex Cables Italy,01,Distribtn Channel 01
+ZGHK,HK/SHG Std Order,8160,SDP Telecom,01,Distribtn Channel 01
+ZE15,S.Agr.Planning -Auto,2800,China Trading Co.,01,Sales
+ZCR,Credit Memo nonsales,3100,United States,01,Distribtn Channel 01
+ZPLN,Planning,1500,Thailand,01,Sales
+ZGSE,Global Slow & Excess,4000,Woodhead Canada,01,Distribtn Channel 01
+ZOT,Molex Other Sales,1300,Taiwan,01,Sales
+ZXSR,Return free of charg,1500,Thailand,01,Distribtn Channel 01
+ZSED,Del.by ExtAgt.- U.S.,3100,United States,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,3100,United States,01,Distribtn Channel 01
+ZECI,Ext Consign Issue,1100,Japan,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,3100,United States,01,Sales
+ZE01,EDI Std Order 01,8200,India - Bangalore,01,Sales
+ZECF,Ext Consign Fill-up,3100,United States,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,3100,United States,01,Sales
+ZGSO,Global Std Order,2200,Korea,01,Distribtn Channel 01
+ZICP,Int Consign Pick-up,1100,Japan,01,Distribtn Channel 01
+ZSED,Del.by ExtAgt.- U.S.,5100,MIGMBH,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,5100,Molex Interconnect,01,Sales
+ZGHK,HK/SHG Std Order,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,2400,Hong Kong/China Ltd,01,Sales
+ZECD,Drop Consign Fill-up,5100,Molex Interconnect,01,Sales
+ZECF,Ext Consign Fill-up,2400,Hong Kong,01,Sales
+ZECI,Ext Consign Issue,5100,MIGMBH,01,Sales
+ZHKR,HK/SHG Order Return,1200,Singapore,01,Sales
+ZE01,EDI Std Order 01,6200,Ireland,01,Distribtn Channel 01
+ZGSO,Global Std Order,8000,Molex Zetronic,01,Distribtn Channel 01
+ZGSS,Global Sample Order,2800,China Trading Co.,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,2900,Molex Philippines,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,5100,MIGMBH,01,Distribtn Channel 01
+ZGSS,Global Sample Order,1100,Japan,01,Sales
+ZSF,Sales Force Order,8110,Molex (China) Invst.,01,Sales
+ZCMR,Credit Memo Request,5100,Molex Interconnect,01,Distribtn Channel 01
+ZSF,Sales Force Order,3100,United States,01,Sales
+ZGSO,Global Std Order,5100,MIGMBH,01,Distribtn Channel 01
+ZECR,Ext Consign Returns,5100,MIGMBH,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,2200,Korea,01,Distribtn Channel 01
+ZGSS,Global Sample Order,5100,MIGMBH,01,Sales
+ZDMR,Debit Memo Request,8110,Molex (China) Invst.,01,Sales
+ZGSS,Global Sample Order,1900,Vietnam,01,Sales
+ZSCR,Serv Credit Request,3100,United States,01,Distribtn Channel 01
+ZGS1,Sample Order Oplink,3100,United States,01,Sales
+ZECI,Ext Consign Issue,8110,Molex (China) Invst.,01,Sales
+ZGSO,Global Std Order,1200,Singapore,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,2800,China Trading Co.,01,Distribtn Channel 01
+ZCMO,Credit Memo Others,1100,Japan,01,Sales
+ZCRK,Poland Corr. Credit,6100,Molex CES Poland,01,Distribtn Channel 01
+ZCRK,Poland Corr. Credit,6100,Molex CES Poland,01,Sales
+ZGPM,Molex Scrap Pre.Mtl,3100,United States,01,Sales
+ZGQV,DM Global Quotation,1100,Japan,01,Distribtn Channel 01
+ZECF,Ext Consign Fill-up,1200,Singapore,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,1400,Malaysia,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,2400,Hong Kong,01,Sales
+ZECP,Ext Consign Pick-up,1400,Malaysia,01,Sales
+ZCMR,Credit Memo Request,4000,Molex Canada Ltd.,01,Distribtn Channel 01
+ZECI,Ext Consign Issue,2400,Hong Kong/China Ltd,01,Sales
+ZICP,Int Consign Pick-up,2400,Hong Kong,01,Sales
+ZCMR,Credit Memo Request,5100,MIGMBH,01,Distribtn Channel 01
+ZPTD,DM P.O.T. DC-Br,3100,United States,01,Distribtn Channel 01
+ZXSR,Return free of charg,4000,Woodhead Canada,01,Sales
+ZGSS,Global Sample Order,2900,Molex Philippines,01,Sales
+ZGOT,Molex Scrap Sales,2700,China 4 - ChengDu,01,Sales
+ZGCC,Global Pay Card Ordr,3100,United States,01,Sales
+ZAZU,Con.P/U extagt.-U.S.,1200,Singapore,01,Distribtn Channel 01
+ZGSE,Global Slow & Excess,3100,United States,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,2700,China 4 - ChengDu,01,Sales
+ZGSS,Global Sample Order,3080,Woodhead Industries,01,Sales
+ZGRE,Drp Cred (Dumy Dely),4000,Molex Canada Ltd.,01,Distribtn Channel 01
+ZECR,Ext Consign Returns,3100,United States,01,Sales
+ZSPC,Molex Contract,1100,Japan,01,Sales
+ZSDR,Serv Debit Request,3750,Omni Mfg Services S.,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,5100,MIGMBH,01,Distribtn Channel 01
+ZECF,Ext Consign Fill-up,2400,Hong Kong/China Ltd,01,Sales
+ZDMR,Debit Memo Request,3100,United States,01,Distribtn Channel 01
+ZGSO,Global Std Order,4000,Molex Canada Ltd.,01,Distribtn Channel 01
+ZGSO,Global Std Order,5900,Molex Sp. Z o o.,01,Sales
+ZCMR,Credit Memo Request,2400,Hong Kong/China Ltd,01,Sales
+ZGHK,HK/SHG Std Order,1400,Malaysia,01,Sales
+ZSDR,Serv Debit Request,3560,Interconnect Systems,01,Sales
+ZGIT,Global Invt Transfer,3100,United States,01,Sales
+ZE12,S.Agr.- w/ATP,5900,Molex Sp. Z o o.,01,Distribtn Channel 01
+ZECI,Ext Consign Issue,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZXSR,Return free of charg,4000,Woodhead Canada,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,8000,Zetronic S.r.l.,01,Sales
+ZGOT,Molex Scrap Sales,8200,India - Bangalore,01,Distribtn Channel 01
+ZGSS,Global Sample Order,5700,Bretten,01,Sales
+ZPSC,Proj Serv Credit Req,5100,MIGMBH,01,Sales
+ZRI,vmi nonsales return,2600,China 3 - WGC,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,2400,Hong Kong,01,Sales
+ZE01,EDI Std Order 01,8000,Molex Zetronic,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,5100,MIGMBH,01,Sales
+ZCCR,CRM S&D Cr Memo,5100,Molex Interconnect,01,Sales
+ZECD,Drop Consign Fill-up,2400,Hong Kong,01,Distribtn Channel 01
+ZGSS,Global Sample Order,2400,Hong Kong,01,Distribtn Channel 01
+ZGPM,Molex Scrap Pre.Mtl,1000,Dalian,01,Sales
+ZVDO,Sell to Vendor,2200,Korea,01,Sales
+ZGQV,DM Global Quotation,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZAZU,Con.P/U extagt.-U.S.,5100,Molex Interconnect,01,Distribtn Channel 01
+ZISR,India  Return w/ex,8200,India - Bangalore,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,2800,China Trading Co.,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZECR,Ext Consign Returns,8110,Molex (China) Invst.,01,Sales
+ZGSR,Global Std Return,1500,Thailand,01,Distribtn Channel 01
+ZXSR,Return free of charg,1200,Singapore,01,Sales
+ZGFR,Global Freight Order,5100,MIGMBH,01,Sales
+ZXSR,Return free of charg,8140,Oplink ZhuHai,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,8200,India - Bangalore,01,Sales
+ZCMR,Credit Memo Request,3080,Woodhead Industries,01,Sales
+ZSDR,Serv Debit Request,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZGQP,Global Quotation,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZSF,Sales Force Order,1200,Singapore,01,Distribtn Channel 01
+ZGSO,Global Std Order,8160,SDP Telecom,01,Sales
+ZE11,S.Agr.- w/ATP interc,6100,Molex CES Poland,01,Sales
+ZGSS,Global Sample Order,5500,Ettlingen,01,Sales
+ZE12,S.Agr.- w/ATP,8140,Oplink ZhuHai,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,3750,Omni Mfg Services S.,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,6200,Ireland,01,Sales
+ZGQV,DM Global Quotation,8790,PMC Suzhou P3,01,Distribtn Channel 01
+ZGIQ,Renewal Inquiry,2800,China Trading Co.,01,Sales
+ZE01,EDI Std Order 01,6880,Molex HDC Italy,01,Distribtn Channel 01
+ZGRE,Drp Cred (Dumy Dely),4000,Molex Canada Ltd.,01,Sales
+ZGQP,Global Quotation,5800,Kosice,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,8100,MCES Australia,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,2600,China 3 - WGC,01,Sales
+ZGQV,DM Global Quotation,8670,PMC Suzhou PMTC,01,Distribtn Channel 01
+ZGQP,Global Quotation,1600,China 1- Dongguan,01,Distribtn Channel 01
+AG,Quotation,5100,Molex Interconnect,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,8300,India - Gujarat,01,Sales
+ZGQP,Global Quotation,2800,China Trading Co.,01,Distribtn Channel 01
+ZSCR,Serv Credit Request,2800,China Trading Co.,01,Sales
+ZGQV,DM Global Quotation,8520,PMC Suzhou PMMC,01,Distribtn Channel 01
+ZGSO,Global Std Order,1900,Vietnam,01,Sales
+ZE15,S.Agr.Planning -Auto,2400,Hong Kong,01,Sales
+ZGSS,Global Sample Order,8520,PMC Suzhou PMMC,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,2300,RF/Micro - Jiangsu,01,Distribtn Channel 01
+ZGSR,Global Std Return,8200,India - Bangalore,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,3080,Woodhead Industries,01,Sales
+TAM,Delivery Order,8110,Molex (China) Invst.,01,Sales
+LZM,SchedAgrt w/Dly Ord.,3750,Omni Mfg Services S.,01,Distribtn Channel 01
+TAM,Delivery Order,2800,China Trading Co.,01,Sales
+ZHKR,HK/SHG Order Return,3100,United States,01,Distribtn Channel 01
+ZHKR,HK/SHG Order Return,3100,United States,01,Sales
+ZSPI,Spec. Price Request,2400,Hong Kong,01,Distribtn Channel 01
+ZPLN,Planning,1400,Malaysia,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,8000,Zetronic S.r.l.,01,Sales
+ZHKR,HK/SHG Order Return,3560,Interconnect Systems,01,Sales
+ZOR,Molex Standard Order,1200,Singapore,01,Distribtn Channel 01
+ZECR,Ext Consign Returns,1200,Singapore,01,Sales
+ZIQR,InterCompany Quote,1400,Malaysia,01,Sales
+ZSDR,Serv Debit Request,1100,Japan,01,Sales
+ZCCR,CRM S&D Cr Memo,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZGRE,Drp Cred (Dumy Dely),3560,Interconnect Systems,01,Sales
+ZGSS,Global Sample Order,6200,Ireland,01,Distribtn Channel 01
+ZGSR,Global Std Return,8100,MCES Australia,01,Distribtn Channel 01
+ZGSR,Global Std Return,8000,Molex Zetronic,01,Distribtn Channel 01
+ZSF,Sales Force Order,4000,Woodhead Canada,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,1000,Dalian,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,1400,Malaysia,01,Sales
+ZGSS,Global Sample Order,2100,CFPA-Taiwan,01,Distribtn Channel 01
+ZSED,Del.by ExtAgt.- U.S.,1400,Malaysia,01,Sales
+ZE12,S.Agr.- w/ATP,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZGSR,Global Std Return,2900,Molex Philippines,01,Distribtn Channel 01
+ZECF,Ext Consign Fill-up,8140,Oplink ZhuHai,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,1300,Taiwan,01,Distribtn Channel 01
+LZM,SchedAgrt w/Dly Ord.,3100,United States,01,Sales
+ZGQS,Sys. Sales Quote,1100,Japan,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,1500,Thailand,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,6200,Ireland,01,Distribtn Channel 01
+LZM,SchedAgrt w/Dly Ord.,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,6200,Ireland,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,3800,US Temp-Flex,01,Sales
+ZGPS,Global Project Order,6360,Phillips Medisize DK,01,Distribtn Channel 01
+ZGSO,Global Std Order,3650,Phillips-Medisize,01,Sales
+ZGQS,Sys. Sales Quote,5100,Molex Interconnect,01,Distribtn Channel 01
+ZSCR,Serv Credit Request,1300,Taiwan,01,Distribtn Channel 01
+ZECR,Ext Consign Returns,6200,Ireland,01,Distribtn Channel 01
+ZHKR,HK/SHG Order Return,1400,Malaysia,01,Sales
+ZE01,EDI Std Order 01,2300,RF/Micro - Jiangsu,01,Sales
+ZGQV,DM Global Quotation,2100,CFPA-Taiwan,01,Distribtn Channel 01
+ZGTT,Tool Ord Yrly Bill,3100,United States,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,3750,Omni Mfg Services S.,01,Sales
+ZDMR,Debit Memo Request,8520,PMC Suzhou PMMC,01,Sales
+LZM,SchedAgrt w/Dly Ord.,1400,Malaysia,01,Sales
+ZGQS,Sys. Sales Quote,2600,China 3 - WGC,01,Sales
+ZCMX,InterCo Credit Memo,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZGSR,Global Std Return,1600,China 1- Dongguan,01,Sales
+ZGQV,DM Global Quotation,8000,Zetronic S.r.l.,01,Sales
+ZSDR,Serv Debit Request,1500,Thailand,01,Sales
+ZRE,Molex  Return wo ref,2800,China Trading Co.,01,Sales
+ZE15,S.Agr.Planning -Auto,1100,Japan,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,5500,Ettlingen,01,Distribtn Channel 01
+ZDMX,InterCo Debit Memo,3100,United States,01,Distribtn Channel 01
+ZGTL,Global Tooling Lease,5100,MIGMBH,01,Sales
+ZSRZ,Returns Sched.Agrmnt,5100,MIGMBH,01,Distribtn Channel 01
+ZOR,Molex Standard Order,1500,Thailand,01,Sales
+ROB,Returns BR own NF,3200,Brasil,01,Distribtn Channel 01
+ZGSO,Global Std Order,6200,Ireland,01,Sales
+ZGQP,Global Quotation,1300,Taiwan,01,Sales
+ZGQV,DM Global Quotation,1400,Malaysia,01,Distribtn Channel 01
+ZCMX,InterCo Credit Memo,3100,United States,01,Sales
+ZECF,Ext Consign Fill-up,2600,China 3 - WGC,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,8300,India - Gujarat,01,Sales
+ZRI,vmi nonsales return,2700,China 4 - ChengDu,01,Sales
+ZSP,Sample Order,5100,Molex Interconnect,01,Sales
+ZOR,Molex Standard Order,2800,China Trading Co.,01,Distribtn Channel 01
+ZGSR,Global Std Return,2500,Original Shanghai,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,3400,PMC Costa Mesa,01,Sales
+ZGSO,Global Std Order,3080,Woodhead Industries,01,Distribtn Channel 01
+ZPLN,Planning,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZHKR,HK/SHG Order Return,2600,China 3 - WGC,01,Distribtn Channel 01
+TAM,Delivery Order,2200,Korea,01,Sales
+ZSP,Sample Order,3560,Interconnect Systems,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,1600,China 1- Dongguan,01,Sales
+ZE12,S.Agr.- w/ATP,3330,CVS Mexico,01,Sales
+LZM,SchedAgrt w/Dly Ord.,1300,Taiwan,01,Distribtn Channel 01
+Z3DV, 3rd party diverted,2200,Korea,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,3330,CVS Mexico,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZECI,Ext Consign Issue,2300,RF/Micro - Jiangsu,01,Distribtn Channel 01
+ZDMO,Debit Memo Others,1000,Dalian,01,Distribtn Channel 01
+ZGSO,Global Std Order,3800,US Temp-Flex,01,Sales
+ZSF,Sales Force Order,8160,SDP Telecom,01,Sales
+ZGRE,Drp Cred (Dumy Dely),8000,Molex Zetronic,01,Distribtn Channel 01
+ZPDR,Proj Serv Debit Req,5100,Molex Interconnect,01,Sales
+ZGSE,Global Slow & Excess,8200,India - Bangalore,01,Sales
+ZRI,vmi nonsales return,8160,SDP Telecom,01,Sales
+ZHKR,HK/SHG Order Return,8140,Oplink ZhuHai,01,Sales
+REB,Returns BR NF cust.,3200,Brasil,01,Sales
+ZGSO,Global Std Order,8670,PMC Suzhou PMTC,01,Distribtn Channel 01
+ZOR,Molex Standard Order,2400,Hong Kong/China Ltd,01,Sales
+ZGRE,Drp Cred (Dumy Dely),3800,US Temp-Flex,01,Distribtn Channel 01
+ZGRE,Drp Cred (Dumy Dely),3800,US Temp-Flex,01,Sales
+ZRI,vmi nonsales return,2900,Molex Philippines,01,Sales
+ZGSE,Global Slow & Excess,2400,Hong Kong/China Ltd,01,Sales
+ZICR,Int Consign Returns,2400,Hong Kong,01,Sales
+ZDMX,InterCo Debit Memo,1400,Malaysia,01,Sales
+ZJ01,Global Std Order,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZXSR,Return free of charg,2400,Hong Kong,01,Distribtn Channel 01
+ZXSR,Return free of charg,2400,Hong Kong,01,Sales
+ZORC,Consign Molex BR,3200,Brasil,01,Sales
+ZGSR,Global Std Return,2300,RF/Micro - Jiangsu,01,Sales
+AG,Quotation,2400,Hong Kong/China Ltd,01,Sales
+ZDMR,Debit Memo Request,8160,SDP Telecom,01,Distribtn Channel 01
+ZDMX,InterCo Debit Memo,8670,PMC Suzhou PMTC,01,Sales
+ZE15,S.Agr.Planning -Auto,6200,Ireland,01,Distribtn Channel 01
+ZE13,S.Agr.ExAg.- w/ATP,5100,Molex Interconnect,01,Sales
+AG,Quotation,2400,Hong Kong,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,8200,India - Bangalore,01,Distribtn Channel 01
+ZGHK,HK/SHG Std Order,1100,Japan,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,5600,Biberach,01,Sales
+ZSCR,Serv Credit Request,8520,PMC Suzhou PMMC,01,Sales
+ZGIR,Global Invt Return,1000,Dalian,01,Sales
+ZDR,Debit Memo Request,1200,Singapore,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,8520,PMC Suzhou PMMC,01,Sales
+ZECR,Ext Consign Returns,1300,Taiwan,01,Sales
+ZCR,Credit Memo nonsales,8160,SDP Telecom,01,Distribtn Channel 01
+ZICP,Int Consign Pick-up,1400,Malaysia,01,Sales
+ZXSO,Free replace order,5100,Molex Interconnect,01,Sales
+ZGSS,Global Sample Order,6300,Medisize Ireland LTD,01,Sales
+ZGIR,Global Invt Return,5600,Biberach,01,Distribtn Channel 01
+ZRZU,ConsRet.extagt.-U.S.,2800,China Trading Co.,01,Sales
+ZRI,vmi nonsales return,8000,Zetronic S.r.l.,01,Distribtn Channel 01
+ZE15,S.Agr.Planning -Auto,2800,China Trading Co.,01,Distribtn Channel 01
+ZECP,Ext Consign Pick-up,2300,RF/Micro - Jiangsu,01,Sales
+ZDR,Debit Memo Request,8100,MCES Australia,01,Distribtn Channel 01
+ZGQP,Global Quotation,8000,Molex Zetronic,01,Distribtn Channel 01
+ZGQP,Global Quotation,8000,Molex Zetronic,01,Sales
+ZGRE,Drp Cred (Dumy Dely),5800,Kosice,01,Sales
+ZGPS,Global Project Order,1500,Thailand,01,Sales
+ZRE,Molex  Return wo ref,8000,Molex Zetronic,01,Sales
+ZRE,Molex  Return wo ref,2300,RF/Micro - Jiangsu,01,Distribtn Channel 01
+AG,Quotation,1200,Singapore,01,Sales
+ZPSC,Proj Serv Credit Req,8670,PMC Suzhou PMTC,01,Distribtn Channel 01
+ZAZU,Con.P/U extagt.-U.S.,2400,Hong Kong,01,Sales
+ZGRE,Drp Cred (Dumy Dely),3750,Omni Mfg Services S.,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,2900,Molex Philippines,01,Distribtn Channel 01
+ZGPS,Global Project Order,6340,Phillips Medisize CZ,01,Sales
+ZCMR,Credit Memo Request,8800,India Tooling,01,Distribtn Channel 01
+ZSP,Sample Order,4000,Molex Canada Ltd.,01,Distribtn Channel 01
+ZXSR,Return free of charg,8110,Molex (China) Invst.,01,Sales
+ZE11,S.Agr.- w/ATP interc,8000,Molex Zetronic,01,Sales
+ZSP,Sample Order,4000,Molex Canada Ltd.,01,Sales
+ZGQP,Global Quotation,5700,Bretten,01,Sales
+ZRI,vmi nonsales return,8000,Zetronic S.r.l.,01,Sales
+ZICI,Int Consign Iss. imm,8200,India - Bangalore,01,Sales
+ZGQP,Global Quotation,8000,Zetronic S.r.l.,01,Sales
+ZAZU,Con.P/U extagt.-U.S.,2400,Hong Kong,01,Distribtn Channel 01
+ZICI,Int Consign Iss. imm,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZGSS,Global Sample Order,7800,Woodhead France WIC,01,Distribtn Channel 01
+ZGSR,Global Std Return,3330,CVS Mexico,01,Distribtn Channel 01
+ZECP,Ext Consign Pick-up,2300,RF/Micro - Jiangsu,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,7800,Woodhead France WIC,01,Sales
+ZE02,EDI from z3dv po y01,6200,Ireland,01,Sales
+ZGSO,Global Std Order,5100,MIGMBH,01,Sales
+ZGSO,Global Std Order,5100,Molex Interconnect,01,Sales
+ZE01,EDI Std Order 01,5100,Molex Interconnect,01,Distribtn Channel 01
+ZECF,Ext Consign Fill-up,8110,Molex (China) Invst.,01,Sales
+ZJIN,Indication Order,1100,Japan,01,Distribtn Channel 01
+ZCCR,CRM S&D Cr Memo,3100,United States,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,1100,Japan,01,Distribtn Channel 01
+ZGHK,HK/SHG Std Order,1200,Singapore,01,Sales
+ZE01,EDI Std Order 01,2900,Molex Philippines,01,Sales
+ZDMR,Debit Memo Request,1100,Japan,01,Distribtn Channel 01
+ZGSS,Global Sample Order,2600,China 3 - WGC,01,Sales
+ZDMR,Debit Memo Request,3100,United States,01,Sales
+ZCCI,InterCo S&D Cr Memo,6200,Ireland,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,3100,United States,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,8100,MCES Australia,01,Sales
+ZSDR,Serv Debit Request,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,5100,Molex Interconnect,01,Distribtn Channel 01
+Z11R,ze11 into Cons Rtns,5100,Molex Interconnect,01,Sales
+ZGSO,Global Std Order,1100,Japan,01,Sales
+ZE01,EDI Std Order 01,2400,Hong Kong,01,Sales
+ZECI,Ext Consign Issue,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,4000,Molex Canada Ltd.,01,Sales
+ZCCR,CRM S&D Cr Memo,2400,Hong Kong,01,Sales
+ZGSS,Global Sample Order,5700,Bretten,01,Distribtn Channel 01
+ZICI,Int Consign Iss. imm,1400,Malaysia,01,Sales
+ZECP,Ext Consign Pick-up,1200,Singapore,01,Sales
+ZGRE,Drp Cred (Dumy Dely),6200,Ireland,01,Sales
+ZGSS,Global Sample Order,1400,Malaysia,01,Distribtn Channel 01
+ZGHK,HK/SHG Std Order,2400,Hong Kong,01,Sales
+ZGQV,DM Global Quotation,4000,Woodhead Canada,01,Distribtn Channel 01
+ZSF,Sales Force Order,2400,Hong Kong,01,Sales
+ZGOT,Molex Scrap Sales,2300,RF/Micro - Jiangsu,01,Sales
+ZDMR,Debit Memo Request,2200,Korea,01,Distribtn Channel 01
+ZXSR,Return free of charg,3100,United States,01,Distribtn Channel 01
+ZECP,Ext Consign Pick-up,5100,Molex Interconnect,01,Distribtn Channel 01
+Z11R,ze11 into Cons Rtns,1300,Taiwan,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,4000,Molex Canada Ltd.,01,Sales
+ZRE,Molex  Return wo ref,2400,Hong Kong/China Ltd,01,Sales
+ZPTD,DM P.O.T. DC-Br,3100,United States,01,Sales
+ZE14,S.Agr.EXt/ATP / JIT,1200,Singapore,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,1200,Singapore,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,5100,MIGMBH,01,Sales
+ZE01,EDI Std Order 01,1300,Taiwan,01,Sales
+ZGQV,DM Global Quotation,1200,Singapore,01,Distribtn Channel 01
+ZOR,Molex Standard Order,5100,Molex Interconnect,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,8110,Molex (China) Invst.,01,Sales
+ZGSS,Global Sample Order,8100,MCES Australia,01,Sales
+ZECP,Ext Consign Pick-up,5100,MIGMBH,01,Sales
+ZGSS,Global Sample Order,6100,Molex CES Poland,01,Sales
+ZGIT,Global Invt Transfer,1000,Dalian,01,Sales
+ZECR,Ext Consign Returns,1100,Japan,01,Distribtn Channel 01
+ZE11,S.Agr.- w/ATP interc,5100,MIGMBH,01,Sales
+ZGQS,Sys. Sales Quote,1500,Thailand,01,Distribtn Channel 01
+ZGQP,Global Quotation,2200,Korea,01,Sales
+ZGQS,Sys. Sales Quote,3100,United States,01,Sales
+ZGSO,Global Std Order,5600,Biberach,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,8110,Molex (China) Invst.,01,Sales
+ZGQV,DM Global Quotation,3750,Omni Mfg Services S.,01,Sales
+ZGSS,Global Sample Order,2300,RF/Micro - Jiangsu,01,Distribtn Channel 01
+TAM,Delivery Order,5500,Ettlingen,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,2400,Hong Kong/China Ltd,01,Sales
+ZE01,EDI Std Order 01,5100,MIGMBH,01,Distribtn Channel 01
+ZGSS,Global Sample Order,4000,Molex Canada Ltd.,01,Sales
+ZECF,Ext Consign Fill-up,1200,Singapore,01,Sales
+ZE01,EDI Std Order 01,6100,Molex CES Poland,01,Distribtn Channel 01
+ZGSS,Global Sample Order,2400,Hong Kong/China Ltd,01,Sales
+ZECD,Drop Consign Fill-up,2800,China Trading Co.,01,Sales
+ZVDO,Sell to Vendor,1100,Japan,01,Sales
+ZICI,Int Consign Iss. imm,2400,Hong Kong,01,Sales
+ZGSS,Global Sample Order,2900,Molex Philippines,01,Distribtn Channel 01
+Z11R,ze11 into Cons Rtns,2800,China Trading Co.,01,Sales
+ZGPM,Molex Scrap Pre.Mtl,2200,Korea,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,8110,Molex (China) Invst.,01,Sales
+ZE14,S.Agr.EXt/ATP / JIT,2400,Hong Kong,01,Sales
+ZE11,S.Agr.- w/ATP interc,2200,Korea,01,Sales
+ZGPR,Global Project Order,6100,Molex CES Poland,01,Sales
+ZECF,Ext Consign Fill-up,8140,Oplink ZhuHai,01,Sales
+ZXSR,Return free of charg,8140,Oplink ZhuHai,01,Sales
+ZICI,Int Consign Iss. imm,2400,Hong Kong/China Ltd,01,Sales
+ZGSR,Global Std Return,1200,Singapore,01,Distribtn Channel 01
+ZICP,Int Consign Pick-up,1200,Singapore,01,Sales
+ZRE,Molex  Return wo ref,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,1400,Malaysia,01,Sales
+ZGS1,Sample Order Oplink,3100,United States,01,Distribtn Channel 01
+ZGSO,Global Std Order,1400,Malaysia,01,Sales
+ZGSR,Global Std Return,2700,China 4 - ChengDu,01,Sales
+ZGQV,DM Global Quotation,1200,Singapore,01,Sales
+ZGSO,Global Std Order,8000,Molex Zetronic,01,Sales
+ZGSS,Global Sample Order,2200,Korea,01,Distribtn Channel 01
+ZECP,Ext Consign Pick-up,5100,Molex Interconnect,01,Sales
+ZGOT,Molex Scrap Sales,8000,Zetronic S.r.l.,01,Sales
+ZRE,Molex  Return wo ref,4000,Woodhead Canada,01,Distribtn Channel 01
+Z11R,ze11 into Cons Rtns,1300,Taiwan,01,Sales
+ZDMR,Debit Memo Request,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,6100,Molex CES Poland,01,Sales
+ZGSS,Global Sample Order,3560,Interconnect Systems,01,Sales
+ZSF,Sales Force Order,2200,Korea,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,8100,MCES Australia,01,Sales
+ZGQV,DM Global Quotation,1300,Taiwan,01,Sales
+ZECD,Drop Consign Fill-up,1400,Malaysia,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,5700,Bretten,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,5100,MIGMBH,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,8200,India - Bangalore,01,Sales
+ZECP,Ext Consign Pick-up,1400,Malaysia,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,3750,Omni Mfg Services S.,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,1300,Taiwan,01,Sales
+ZRE,Molex  Return wo ref,5100,Molex Interconnect,01,Sales
+ZGQV,DM Global Quotation,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZGQP,Global Quotation,1400,Malaysia,01,Sales
+ZDMR,Debit Memo Request,3750,Omni Mfg Services S.,01,Distribtn Channel 01
+ZGRE,Drp Cred (Dumy Dely),3100,United States,01,Sales
+ZGPS,Global Project Order,3100,United States,01,Sales
+ZXSO,Free replace order,8140,Oplink ZhuHai,01,Sales
+ZGQV,DM Global Quotation,6830,Molex Cables Italy,01,Sales
+ZXSO,Free replace order,3560,Interconnect Systems,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,3560,Interconnect Systems,01,Sales
+ZSDR,Serv Debit Request,1300,Taiwan,01,Sales
+ZGTT,Tool Ord Yrly Bill,1100,Japan,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,1200,Singapore,01,Sales
+ZGIQ,Renewal Inquiry,5100,MIGMBH,01,Sales
+ZE12,S.Agr.- w/ATP,2400,Hong Kong,01,Distribtn Channel 01
+LZM,SchedAgrt w/Dly Ord.,1200,Singapore,01,Sales
+ZE13,S.Agr.ExAg.- w/ATP,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZGIQ,Renewal Inquiry,1100,Japan,01,Sales
+ZRE,Molex  Return wo ref,6200,Ireland,01,Sales
+ZDMR,Debit Memo Request,6200,Ireland,01,Sales
+ZGSS,Global Sample Order,6880,Molex HDC Italy,01,Sales
+LZM,SchedAgrt w/Dly Ord.,2200,Korea,01,Sales
+ZPSC,Proj Serv Credit Req,5100,Molex Interconnect,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,1000,Dalian,01,Distribtn Channel 01
+ZIQR,InterCompany Quote,5100,MIGMBH,01,Sales
+ZGIQ,Renewal Inquiry,1300,Taiwan,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,3080,Woodhead Industries,01,Distribtn Channel 01
+ZSCR,Serv Credit Request,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,8140,Oplink ZhuHai,01,Sales
+ZIQR,InterCompany Quote,1100,Japan,01,Distribtn Channel 01
+ZECP,Ext Consign Pick-up,8160,SDP Telecom,01,Distribtn Channel 01
+ZIQR,InterCompany Quote,3100,United States,01,Distribtn Channel 01
+ZXSR,Return free of charg,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,6830,Molex Cables Italy,01,Sales
+ZECI,Ext Consign Issue,5100,Molex Interconnect,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,2200,Korea,01,Sales
+ZGSO,Global Std Order,2900,Molex Philippines,01,Distribtn Channel 01
+ZECP,Ext Consign Pick-up,5100,MIGMBH,01,Distribtn Channel 01
+ZGSS,Global Sample Order,6100,Molex CES Poland,01,Distribtn Channel 01
+ZAZU,Con.P/U extagt.-U.S.,1200,Singapore,01,Sales
+ZGSS,Global Sample Order,8000,Zetronic S.r.l.,01,Distribtn Channel 01
+ZGSR,Global Std Return,8000,Zetronic S.r.l.,01,Distribtn Channel 01
+ZGHK,HK/SHG Std Order,2900,Molex Philippines,01,Sales
+ZSDR,Serv Debit Request,2400,Hong Kong,01,Distribtn Channel 01
+ZAZU,Con.P/U extagt.-U.S.,5100,MIGMBH,01,Distribtn Channel 01
+ZGSS,Global Sample Order,1900,Vietnam,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,8200,India - Bangalore,01,Distribtn Channel 01
+ZGQP,Global Quotation,2600,China 3 - WGC,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,5100,Molex Interconnect,01,Sales
+ZGSR,Global Std Return,5700,Bretten,01,Sales
+ZRE,Molex  Return wo ref,3800,US Temp-Flex,01,Distribtn Channel 01
+ZGSO,Global Std Order,6830,Molex Cables Italy,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,6830,Molex Cables Italy,01,Distribtn Channel 01
+ZGQP,Global Quotation,5100,MIGMBH,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,1100,Japan,01,Sales
+ZGPS,Global Project Order,5100,Molex Interconnect,01,Distribtn Channel 01
+ZGPS,Global Project Order,3750,Omni Mfg Services S.,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,8140,Oplink ZhuHai,01,Sales
+ZGIQ,Renewal Inquiry,2600,China 3 - WGC,01,Distribtn Channel 01
+ZPDR,Proj Serv Debit Req,3100,United States,01,Sales
+ZE14,S.Agr.EXt/ATP / JIT,8140,Oplink ZhuHai,01,Sales
+ZDMR,Debit Memo Request,8200,India - Bangalore,01,Distribtn Channel 01
+ZGSS,Global Sample Order,6880,Molex HDC Italy,01,Distribtn Channel 01
+ZGIQ,Renewal Inquiry,1400,Malaysia,01,Sales
+ZSDR,Serv Debit Request,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZICI,Int Consign Iss. imm,5100,MIGMBH,01,Distribtn Channel 01
+ZGSO,Global Std Order,3650,Phillips-Medisize,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,5100,MIGMBH,01,Distribtn Channel 01
+TAM,Delivery Order,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZGSS,Global Sample Order,8300,India - Gujarat,01,Distribtn Channel 01
+ZPLN,Planning,1400,Malaysia,01,Sales
+ZGTL,Global Tooling Lease,5100,MIGMBH,01,Distribtn Channel 01
+ZGSR,Global Std Return,8160,SDP Telecom,01,Distribtn Channel 01
+ZIQR,InterCompany Quote,1100,Japan,01,Sales
+ZGRE,Drp Cred (Dumy Dely),5500,Ettlingen,01,Sales
+ZICF,Int Consign Fill-up,5100,MIGMBH,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,1300,Taiwan,01,Sales
+ZECP,Ext Consign Pick-up,8160,SDP Telecom,01,Sales
+ZGSR,Global Std Return,8200,India - Bangalore,01,Sales
+ZE12,S.Agr.- w/ATP,5900,Molex Sp. Z o o.,01,Sales
+ZIQR,InterCompany Quote,5100,MIGMBH,01,Distribtn Channel 01
+ZSCR,Serv Credit Request,2400,Hong Kong/China Ltd,01,Sales
+ZE01,EDI Std Order 01,3080,Woodhead Industries,01,Distribtn Channel 01
+ZJ01,Global Std Order,1100,Japan,01,Distribtn Channel 01
+MAKO,Dely Order Correctn,8000,Molex Zetronic,01,Distribtn Channel 01
+ZRZU,ConsRet.extagt.-U.S.,5100,MIGMBH,01,Sales
+ZGIQ,Renewal Inquiry,3100,United States,01,Distribtn Channel 01
+ZECI,Ext Consign Issue,8140,Oplink ZhuHai,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,8300,India - Gujarat,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,1100,Japan,01,Distribtn Channel 01
+LZM,SchedAgrt w/Dly Ord.,3750,Omni Mfg Services S.,01,Sales
+ZDR,Debit Memo Request,2200,Korea,01,Sales
+ZHKR,HK/SHG Order Return,2400,Hong Kong,01,Sales
+ZSP,Sample Order,3100,United States,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,5600,Biberach,01,Sales
+ZECI,Ext Consign Issue,6100,Molex CES Poland,01,Distribtn Channel 01
+ZDMO,Debit Memo Others,1000,Dalian,01,Sales
+ZGHK,HK/SHG Std Order,2300,RF/Micro - Jiangsu,01,Distribtn Channel 01
+ZXSO,Free replace order,4000,Molex Canada Ltd.,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,8160,SDP Telecom,01,Distribtn Channel 01
+ZPCM,Proj Credit Memo Req,3100,United States,01,Distribtn Channel 01
+ZPCM,Proj Credit Memo Req,3100,United States,01,Sales
+ZSPI,Spec. Price Request,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,8000,Molex Zetronic,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,5800,Kosice,01,Sales
+ZRI,vmi nonsales return,1200,Singapore,01,Sales
+ZGRE,Drp Cred (Dumy Dely),8000,Zetronic S.r.l.,01,Sales
+ZECP,Ext Consign Pick-up,1300,Taiwan,01,Sales
+ZECI,Ext Consign Issue,3100,United States,01,Sales
+ZPLN,Planning,2600,China 3 - WGC,01,Distribtn Channel 01
+ZCMX,InterCo Credit Memo,1700,China 1I - Dongguan,01,Sales
+ZHKR,HK/SHG Order Return,1700,China 1I - Dongguan,01,Sales
+ZGRE,Drp Cred (Dumy Dely),5900,Molex Sp. Z o o.,01,Sales
+ZSCR,Serv Credit Request,2200,Korea,01,Sales
+ZRE,Molex  Return wo ref,6830,Molex Cables Italy,01,Distribtn Channel 01
+ZXSR,Return free of charg,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZGIR,Global Invt Return,6200,Ireland,01,Distribtn Channel 01
+ZGTP,Global 3rd party ord,5100,Molex Interconnect,01,Distribtn Channel 01
+ZXSR,Return free of charg,3800,US Temp-Flex,01,Distribtn Channel 01
+ZE11,S.Agr.- w/ATP interc,1100,Japan,01,Sales
+ZGPS,Global Project Order,2800,China Trading Co.,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,3560,Interconnect Systems,01,Sales
+ZICR,Int Consign Returns,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZDRE,Drp loc Rtn (dumdel),3100,United States,01,Distribtn Channel 01
+ZRI,vmi nonsales return,8160,SDP Telecom,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,2300,RF/Micro - Jiangsu,01,Sales
+ZIQR,InterCompany Quote,1600,China 1- Dongguan,01,Distribtn Channel 01
+ZIT,Molex Invt Transfer,5900,Molex Sp. Z o o.,01,Sales
+ZCR,Credit Memo nonsales,6200,Ireland,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,2900,Molex Philippines,01,Sales
+ZGQP,Global Quotation,8300,India - Gujarat,01,Sales
+ZECR,Ext Consign Returns,6200,Ireland,01,Sales
+ZGQS,Sys. Sales Quote,6200,Ireland,01,Sales
+ZGOT,Molex Scrap Sales,2400,Hong Kong,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,8160,SDP Telecom,01,Sales
+ZGSE,Global Slow & Excess,2400,Hong Kong,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,6190,Medisize OY,01,Sales
+ZCMT,Tooling Credit memo,1100,Japan,01,Distribtn Channel 01
+ZGSE,Global Slow & Excess,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZGIR,Global Invt Return,2600,China 3 - WGC,01,Sales
+ZSCR,Serv Credit Request,8520,PMC Suzhou PMMC,01,Distribtn Channel 01
+ZGSR,Global Std Return,3760,FCT US LLC,01,Sales
+ZGTV,Tooling Ret. Yearly,3100,United States,01,Sales
+ZGCR,Gbl. Pay Card Return,3100,United States,01,Sales
+ZXSR,Return free of charg,3750,Omni Mfg Services S.,01,Distribtn Channel 01
+ZGTV,Tooling Ret. Yearly,3100,United States,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,2500,Original Shanghai,01,Sales
+ZPSC,Proj Serv Credit Req,8790,PMC Suzhou P3,01,Distribtn Channel 01
+ZPSC,Proj Serv Credit Req,8790,PMC Suzhou P3,01,Sales
+ZDMR,Debit Memo Request,3330,CVS Mexico,01,Distribtn Channel 01
+ZXSR,Return free of charg,3200,Brasil,01,Distribtn Channel 01
+ZHKR,HK/SHG Order Return,1500,Thailand,01,Sales
+ZECR,Ext Consign Returns,2200,Korea,01,Sales
+ZCMR,Credit Memo Request,2700,China 4 - ChengDu,01,Sales
+ZGSS,Global Sample Order,6190,Medisize OY,01,Sales
+ZPLN,Planning,0900,FEML Far East,01,Distribtn Channel 01
+ZPSC,Proj Serv Credit Req,8670,PMC Suzhou PMTC,01,Sales
+ZSCR,Serv Credit Request,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZGSS,Global Sample Order,6300,Medisize Ireland LTD,01,Distribtn Channel 01
+ZGIT,Global Invt Transfer,5600,Biberach,01,Distribtn Channel 01
+ZXSR,Return free of charg,3080,Woodhead Industries,01,Distribtn Channel 01
+ZPDM,Proj Debit Memo Req,5100,Molex Interconnect,01,Sales
+ZCMC,Cr.Memo for Pay Card,3100,United States,01,Sales
+ZGTP,Global 3rd party ord,2700,China 4 - ChengDu,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,3400,PMC Costa Mesa,01,Distribtn Channel 01
+ZECR,Ext Consign Returns,1500,Thailand,01,Sales
+AG,Quotation,2600,China 3 - WGC,01,Sales
+ZRE,Molex  Return wo ref,8520,PMC Suzhou PMMC,01,Distribtn Channel 01
+ZGPR,Global Project Order,8100,MCES Australia,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,2700,China 4 - ChengDu,01,Distribtn Channel 01
+ZGIR,Global Invt Return,3100,United States,01,Distribtn Channel 01
+ZRZU,ConsRet.extagt.-U.S.,2800,China Trading Co.,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,3800,US Temp-Flex,01,Sales
+ZXSR,Return free of charg,2200,Korea,01,Distribtn Channel 01
+ZICI,Int Consign Iss. imm,3100,United States,01,Distribtn Channel 01
+ZE11,S.Agr.- w/ATP interc,1300,Taiwan,01,Distribtn Channel 01
+ZPCM,Proj Credit Memo Req,5100,MIGMBH,01,Sales
+ZXSO,Free replace order,5100,MIGMBH,01,Sales
+ZE12,S.Agr.- w/ATP,5700,Bretten,01,Distribtn Channel 01
+ZSPI,Spec. Price Request,1400,Malaysia,01,Distribtn Channel 01
+ZPCM,Proj Credit Memo Req,5100,Molex Interconnect,01,Distribtn Channel 01
+ZSP,Sample Order,4000,Woodhead Canada,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,2600,China 3 - WGC,01,Distribtn Channel 01
+ZCR,Credit Memo nonsales,8100,MCES Australia,01,Sales
+ZGIR,Global Invt Return,5600,Biberach,01,Sales
+ZDMR,Debit Memo Request,8300,India - Gujarat,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,3800,US Temp-Flex,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,5600,Biberach,01,Sales
+ZCMX,InterCo Credit Memo,2700,China 4 - ChengDu,01,Sales
+ZRE,Molex  Return wo ref,2100,CFPA-Taiwan,01,Sales
+ZGQV,DM Global Quotation,0900,FEML Far East,01,Sales
+ZICP,Int Consign Pick-up,1400,Malaysia,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,8300,India - Gujarat,01,Sales
+ZE14,S.Agr.EXt/ATP / JIT,5600,Biberach,01,Distribtn Channel 01
+ZCR,Credit Memo nonsales,8160,SDP Telecom,01,Sales
+ZXSR,Return free of charg,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZGRE,Drp Cred (Dumy Dely),3750,Omni Mfg Services S.,01,Sales
+TAM,Delivery Order,3100,United States,01,Distribtn Channel 01
+AG,Quotation,3100,United States,01,Sales
+ZGQV,DM Global Quotation,3100,United States,01,Distribtn Channel 01
+ZGSS,Global Sample Order,8000,Molex Zetronic,01,Distribtn Channel 01
+ZGSS,Global Sample Order,8000,Molex Zetronic,01,Sales
+ZGQP,Global Quotation,1500,Thailand,01,Sales
+ZDMO,Debit Memo Others,1100,Japan,01,Distribtn Channel 01
+ZGHK,HK/SHG Std Order,3100,United States,01,Sales
+ZGQS,Sys. Sales Quote,5100,MIGMBH,01,Sales
+ZSED,Del.by ExtAgt.- U.S.,2400,Hong Kong/China Ltd,01,Sales
+ZGTR,Tooling Return,3100,United States,01,Sales
+ZSF,Sales Force Order,1200,Singapore,01,Sales
+ZGPM,Molex Scrap Pre.Mtl,1100,Japan,01,Sales
+ZIQR,InterCompany Quote,5100,Molex Interconnect,01,Distribtn Channel 01
+ZECI,Ext Consign Issue,1200,Singapore,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,1100,Japan,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,1100,Japan,01,Sales
+ZECF,Ext Consign Fill-up,5100,MIGMBH,01,Distribtn Channel 01
+ZECF,Ext Consign Fill-up,5100,MIGMBH,01,Sales
+ZE01,EDI Std Order 01,3100,United States,01,Sales
+TAM,Delivery Order,1400,Malaysia,01,Distribtn Channel 01
+ZGIQ,Renewal Inquiry,1100,Japan,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,2400,Hong Kong/China Ltd,01,Sales
+ZECP,Ext Consign Pick-up,2400,Hong Kong,01,Sales
+ZE14,S.Agr.EXt/ATP / JIT,1100,Japan,01,Sales
+ZE01,EDI Std Order 01,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZGPM,Molex Scrap Pre.Mtl,1100,Japan,01,Distribtn Channel 01
+Z11R,ze11 into Cons Rtns,2800,China Trading Co.,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,1500,Thailand,01,Sales
+ZE01,EDI Std Order 01,2200,Korea,01,Distribtn Channel 01
+ZGS1,Sample Order Oplink,8140,Oplink ZhuHai,01,Distribtn Channel 01
+ZGHK,HK/SHG Std Order,2700,China 4 - ChengDu,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,1300,Taiwan,01,Distribtn Channel 01
+ZGFR,Global Freight Order,5100,Molex Interconnect,01,Distribtn Channel 01
+ZGQP,Global Quotation,1700,China 1I - Dongguan,01,Sales
+ZSED,Del.by ExtAgt.- U.S.,5100,Molex Interconnect,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,1500,Thailand,01,Distribtn Channel 01
+Z11R,ze11 into Cons Rtns,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZSED,Del.by ExtAgt.- U.S.,2200,Korea,01,Distribtn Channel 01
+ZGSO,Global Std Order,3750,Omni Mfg Services S.,01,Sales
+ZGQV,DM Global Quotation,1400,Malaysia,01,Sales
+ZGSO,Global Std Order,1700,China 1I - Dongguan,01,Distribtn Channel 01
+MAKO,Dely Order Correctn,5100,MIGMBH,01,Sales
+ZPTC,CM P.O.T. DC-Br,3100,United States,01,Sales
+AG,Quotation,5100,Molex Interconnect,01,Sales
+ZGRE,Drp Cred (Dumy Dely),3100,United States,01,Distribtn Channel 01
+ZGSO,Global Std Order,6200,Ireland,01,Distribtn Channel 01
+ZGPS,Global Project Order,3650,Phillips-Medisize,01,Sales
+ZGHK,HK/SHG Std Order,8140,Oplink ZhuHai,01,Sales
+Z11R,ze11 into Cons Rtns,5100,MIGMBH,01,Distribtn Channel 01
+ZECD,Drop Consign Fill-up,5100,MIGMBH,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,2800,China Trading Co.,01,Sales
+ZGQV,DM Global Quotation,1300,Taiwan,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,2700,China 4 - ChengDu,01,Distribtn Channel 01
+ZGHK,HK/SHG Std Order,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZGPS,Global Project Order,8790,PMC Suzhou P3,01,Sales
+ZGSO,Global Std Order,6120,Phillips Medisize Sl,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,8110,Molex (China) Invst.,01,Sales
+ZCMR,Credit Memo Request,1700,China 1I - Dongguan,01,Sales
+LZM,SchedAgrt w/Dly Ord.,8110,Molex (China) Invst.,01,Sales
+ZIT,Molex Invt Transfer,6200,Ireland,01,Distribtn Channel 01
+ZSPI,Spec. Price Request,1100,Japan,01,Sales
+ZGQP,Global Quotation,5100,Molex Interconnect,01,Sales
+ZIQR,InterCompany Quote,1400,Malaysia,01,Distribtn Channel 01
+ZGSO,Global Std Order,8160,SDP Telecom,01,Distribtn Channel 01
+ZSF,Sales Force Order,4000,Woodhead Canada,01,Sales
+ZSED,Del.by ExtAgt.- U.S.,2800,China Trading Co.,01,Sales
+ZSED,Del.by ExtAgt.- U.S.,2400,Hong Kong,01,Distribtn Channel 01
+ZGTT,Tool Ord Yrly Bill,1100,Japan,01,Sales
+ZGIQ,Renewal Inquiry,1200,Singapore,01,Sales
+ZGSR,Global Std Return,5100,MIGMBH,01,Sales
+ZGIQ,Renewal Inquiry,2400,Hong Kong/China Ltd,01,Sales
+ZGIT,Global Invt Transfer,3100,United States,01,Distribtn Channel 01
+ZGSR,Global Std Return,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZSED,Del.by ExtAgt.- U.S.,5100,Molex Interconnect,01,Sales
+ZGSS,Global Sample Order,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZCCR,CRM S&D Cr Memo,5100,Molex Interconnect,01,Distribtn Channel 01
+ZGSS,Global Sample Order,5100,Molex Interconnect,01,Sales
+ZE01,EDI Std Order 01,1700,China 1I - Dongguan,01,Sales
+ZE01,EDI Std Order 01,2700,China 4 - ChengDu,01,Distribtn Channel 01
+ZCCI,InterCo S&D Cr Memo,5900,Molex Sp. Z o o.,01,Distribtn Channel 01
+ZGSO,Global Std Order,2600,China 3 - WGC,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,1400,Malaysia,01,Distribtn Channel 01
+ZGIQ,Renewal Inquiry,2600,China 3 - WGC,01,Sales
+ZAZU,Con.P/U extagt.-U.S.,3100,United States,01,Distribtn Channel 01
+ZDR,Debit Memo Request,1400,Malaysia,01,Sales
+ZGSO,Global Std Order,6120,Phillips Medisize Sl,01,Sales
+ZGIT,Global Invt Transfer,1100,Japan,01,Distribtn Channel 01
+ZGSR,Global Std Return,5900,Molex Sp. Z o o.,01,Sales
+ZPRC,CM P.O.T. Br-DC,3100,United States,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,5700,Bretten,01,Sales
+ZGOT,Molex Scrap Sales,2200,Korea,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,8140,Oplink ZhuHai,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,1400,Malaysia,01,Distribtn Channel 01
+ZGSO,Global Std Order,1000,Dalian,01,Distribtn Channel 01
+ZSED,Del.by ExtAgt.- U.S.,1400,Malaysia,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,6830,Molex Cables Italy,01,Sales
+ZE14,S.Agr.EXt/ATP / JIT,3100,United States,01,Distribtn Channel 01
+ZECP,Ext Consign Pick-up,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZSED,Del.by ExtAgt.- U.S.,2200,Korea,01,Sales
+ZECI,Ext Consign Issue,2400,Hong Kong,01,Distribtn Channel 01
+ZGSR,Global Std Return,1200,Singapore,01,Sales
+ZGQV,DM Global Quotation,6100,Molex CES Poland,01,Sales
+ZECR,Ext Consign Returns,5100,Molex Interconnect,01,Distribtn Channel 01
+AG,Quotation,5100,MIGMBH,01,Distribtn Channel 01
+ZOR,Molex Standard Order,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZECP,Ext Consign Pick-up,2400,Hong Kong,01,Distribtn Channel 01
+ZGPM,Molex Scrap Pre.Mtl,2600,China 3 - WGC,01,Sales
+ZGPS,Global Project Order,3650,Phillips-Medisize,01,Distribtn Channel 01
+ZGRE,Drp Cred (Dumy Dely),5100,MIGMBH,01,Sales
+ZE12,S.Agr.- w/ATP,1400,Malaysia,01,Distribtn Channel 01
+Z11R,ze11 into Cons Rtns,1400,Malaysia,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,1300,Taiwan,01,Sales
+ZGOT,Molex Scrap Sales,2200,Korea,01,Sales
+MAKO,Dely Order Correctn,5100,Molex Interconnect,01,Distribtn Channel 01
+ZECP,Ext Consign Pick-up,2200,Korea,01,Distribtn Channel 01
+ZECR,Ext Consign Returns,1100,Japan,01,Sales
+ZGSS,Global Sample Order,5900,Molex Sp. Z o o.,01,Distribtn Channel 01
+ZGSR,Global Std Return,8000,Molex Zetronic,01,Sales
+ZSF,Sales Force Order,1300,Taiwan,01,Distribtn Channel 01
+ZE15,S.Agr.Planning -Auto,3100,United States,01,Sales
+ZGSR,Global Std Return,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZICP,Int Consign Pick-up,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZECI,Ext Consign Issue,3750,Omni Mfg Services S.,01,Sales
+ZGIQ,Renewal Inquiry,5100,MIGMBH,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,1400,Malaysia,01,Sales
+ZSPC,Molex Contract,1100,Japan,01,Distribtn Channel 01
+TAM,Delivery Order,1300,Taiwan,01,Distribtn Channel 01
+ZGIQ,Renewal Inquiry,5100,Molex Interconnect,01,Sales
+ZGOT,Molex Scrap Sales,2600,China 3 - WGC,01,Distribtn Channel 01
+ZGPS,Global Project Order,3750,Omni Mfg Services S.,01,Sales
+ZGSR,Global Std Return,2200,Korea,01,Distribtn Channel 01
+ZE15,S.Agr.Planning -Auto,5100,MIGMBH,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,5500,Ettlingen,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,8790,PMC Suzhou P3,01,Distribtn Channel 01
+ZXSR,Return free of charg,4000,Molex Canada Ltd.,01,Distribtn Channel 01
+ZGIQ,Renewal Inquiry,2800,China Trading Co.,01,Distribtn Channel 01
+ZECP,Ext Consign Pick-up,3100,United States,01,Distribtn Channel 01
+ZE13,S.Agr.ExAg.- w/ATP,5500,Ettlingen,01,Sales
+ZE13,S.Agr.ExAg.- w/ATP,3100,United States,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,1900,Vietnam,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,8200,India - Bangalore,01,Sales
+ZGIT,Global Invt Transfer,1000,Dalian,01,Distribtn Channel 01
+LZM,SchedAgrt w/Dly Ord.,1100,Japan,01,Distribtn Channel 01
+ZSED,Del.by ExtAgt.- U.S.,5500,Ettlingen,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,8100,MCES Australia,01,Sales
+TAM,Delivery Order,1100,Japan,01,Sales
+TAV,Standard Order (VMI),5100,MIGMBH,01,Distribtn Channel 01
+ZDMX,InterCo Debit Memo,3100,United States,01,Sales
+ZGSO,Global Std Order,3560,Interconnect Systems,01,Sales
+ZGQP,Global Quotation,4000,Woodhead Canada,01,Distribtn Channel 01
+ZECD,Drop Consign Fill-up,1200,Singapore,01,Sales
+LZM,SchedAgrt w/Dly Ord.,3100,United States,01,Distribtn Channel 01
+ZGSS,Global Sample Order,8110,Molex (China) Invst.,01,Sales
+ZE01,EDI Std Order 01,1900,Vietnam,01,Distribtn Channel 01
+ZE11,S.Agr.- w/ATP interc,3100,United States,01,Sales
+ZE12,S.Agr.- w/ATP,5500,Ettlingen,01,Sales
+ZE11,S.Agr.- w/ATP interc,5100,Molex Interconnect,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,3800,US Temp-Flex,01,Sales
+ZECP,Ext Consign Pick-up,1200,Singapore,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,1200,Singapore,01,Distribtn Channel 01
+ZGQP,Global Quotation,4000,Woodhead Canada,01,Sales
+ZGRE,Drp Cred (Dumy Dely),6830,Molex Cables Italy,01,Sales
+ZGIQ,Renewal Inquiry,5100,Molex Interconnect,01,Distribtn Channel 01
+ZOR,Molex Standard Order,5100,Molex Interconnect,01,Sales
+ZRE,Molex  Return wo ref,8100,MCES Australia,01,Distribtn Channel 01
+ZSF,Sales Force Order,1300,Taiwan,01,Sales
+ZGQP,Global Quotation,8200,India - Bangalore,01,Distribtn Channel 01
+ZGQP,Global Quotation,7800,Woodhead France WIC,01,Sales
+ZCMR,Credit Memo Request,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,2600,China 3 - WGC,01,Sales
+ZGSS,Global Sample Order,8100,MCES Australia,01,Distribtn Channel 01
+ZGSR,Global Std Return,6100,Molex CES Poland,01,Sales
+ZSDR,Serv Debit Request,2800,China Trading Co.,01,Sales
+ZDMR,Debit Memo Request,1100,Japan,01,Sales
+TAM,Delivery Order,2800,China Trading Co.,01,Distribtn Channel 01
+TAM,Delivery Order,8000,Zetronic S.r.l.,01,Sales
+ZHKR,HK/SHG Order Return,2700,China 4 - ChengDu,01,Distribtn Channel 01
+ZHKR,HK/SHG Order Return,2700,China 4 - ChengDu,01,Sales
+ZGPM,Molex Scrap Pre.Mtl,6200,Ireland,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,8000,Zetronic S.r.l.,01,Distribtn Channel 01
+ZGQP,Global Quotation,5800,Kosice,01,Sales
+ZGRE,Drp Cred (Dumy Dely),3560,Interconnect Systems,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,8200,India - Bangalore,01,Sales
+ZSRZ,Returns Sched.Agrmnt,5100,MIGMBH,01,Sales
+ZXSR,Return free of charg,5100,MIGMBH,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,3080,Woodhead Industries,01,Distribtn Channel 01
+ZGTL,Global Tooling Lease,5100,Molex Interconnect,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,8520,PMC Suzhou PMMC,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,8520,PMC Suzhou PMMC,01,Sales
+ZSDR,Serv Debit Request,3750,Omni Mfg Services S.,01,Sales
+ZRE,Molex  Return wo ref,1200,Singapore,01,Sales
+ZCRK,Poland Corr. Credit,5900,Molex Sp. Z o o.,01,Distribtn Channel 01
+LZM,SchedAgrt w/Dly Ord.,8000,Molex Zetronic,01,Distribtn Channel 01
+ZGRE,Drp Cred (Dumy Dely),5500,Ettlingen,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,7800,Woodhead France WIC,01,Distribtn Channel 01
+ZGSO,Global Std Order,5600,Biberach,01,Sales
+ZCMR,Credit Memo Request,8520,PMC Suzhou PMMC,01,Sales
+ZGHK,HK/SHG Std Order,2600,China 3 - WGC,01,Sales
+ZGOT,Molex Scrap Sales,2900,Molex Philippines,01,Distribtn Channel 01
+ZGPS,Global Project Order,6190,Medisize OY,01,Sales
+ZGRE,Drp Cred (Dumy Dely),6100,Molex CES Poland,01,Distribtn Channel 01
+ZSCR,Serv Credit Request,1300,Taiwan,01,Sales
+ZGQV,DM Global Quotation,1000,Dalian,01,Sales
+ZRE,Molex  Return wo ref,5500,Ettlingen,01,Sales
+ZGPS,Global Project Order,5100,MIGMBH,01,Distribtn Channel 01
+ZGPM,Molex Scrap Pre.Mtl,2100,CFPA-Taiwan,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,3750,Omni Mfg Services S.,01,Sales
+ZXSR,Return free of charg,2400,Hong Kong/China Ltd,01,Sales
+ZE12,S.Agr.- w/ATP,5600,Biberach,01,Distribtn Channel 01
+ZDR,Debit Memo Request,2200,Korea,01,Distribtn Channel 01
+ZGIQ,Renewal Inquiry,1600,China 1- Dongguan,01,Distribtn Channel 01
+ZOR,Molex Standard Order,4000,Woodhead Canada,01,Distribtn Channel 01
+ZOR,Molex Standard Order,4000,Molex Canada Ltd.,01,Distribtn Channel 01
+ZSCR,Serv Credit Request,4000,Woodhead Canada,01,Distribtn Channel 01
+ZGSO,Global Std Order,8670,PMC Suzhou PMTC,01,Sales
+ZCMR,Credit Memo Request,8300,India - Gujarat,01,Sales
+ZGSO,Global Std Order,6300,Medisize Ireland LTD,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,5500,Ettlingen,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,2600,China 3 - WGC,01,Sales
+ZE01,EDI Std Order 01,5500,Ettlingen,01,Sales
+ZPDR,Proj Serv Debit Req,5100,MIGMBH,01,Distribtn Channel 01
+ZDRE,Drp loc Rtn (dumdel),3100,United States,01,Sales
+REB,Returns BR NF cust.,3200,Brasil,01,Distribtn Channel 01
+AG,Quotation,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,1400,Malaysia,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,1500,Thailand,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,3330,CVS Mexico,01,Distribtn Channel 01
+B1,Rebate Cred Memo Rqt,1200,Singapore,01,Sales
+ZE01,EDI Std Order 01,8160,SDP Telecom,01,Sales
+ZDMX,InterCo Debit Memo,8670,PMC Suzhou PMTC,01,Distribtn Channel 01
+ZCR,Credit Memo nonsales,1200,Singapore,01,Sales
+ZICR,Int Consign Returns,2400,Hong Kong/China Ltd,01,Sales
+ZE15,S.Agr.Planning -Auto,6200,Ireland,01,Sales
+ZRZU,ConsRet.extagt.-U.S.,1400,Malaysia,01,Sales
+ZICR,Int Consign Returns,2400,Hong Kong,01,Distribtn Channel 01
+ZECR,Ext Consign Returns,1400,Malaysia,01,Distribtn Channel 01
+ZDR,Debit Memo Request,3100,United States,01,Distribtn Channel 01
+ZHKR,HK/SHG Order Return,3560,Interconnect Systems,01,Distribtn Channel 01
+ZECF,Ext Consign Fill-up,2600,China 3 - WGC,01,Sales
+ZRI,vmi nonsales return,2700,China 4 - ChengDu,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,6830,Molex Cables Italy,01,Sales
+ZICI,Int Consign Iss. imm,1300,Taiwan,01,Sales
+ZCMR,Credit Memo Request,5700,Bretten,01,Sales
+ZGIQ,Renewal Inquiry,1700,China 1I - Dongguan,01,Sales
+ZSCR,Serv Credit Request,1100,Japan,01,Sales
+ZE14,S.Agr.EXt/ATP / JIT,6200,Ireland,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,6200,Ireland,01,Sales
+ZRE,Molex  Return wo ref,1100,Japan,01,Distribtn Channel 01
+ZPSC,Proj Serv Credit Req,8520,PMC Suzhou PMMC,01,Sales
+ZGRE,Drp Cred (Dumy Dely),2400,Hong Kong,01,Distribtn Channel 01
+ZSCR,Serv Credit Request,1100,Japan,01,Distribtn Channel 01
+ZGIT,Global Invt Transfer,5900,Molex Sp. Z o o.,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,2700,China 4 - ChengDu,01,Distribtn Channel 01
+ZPLN,Planning,8200,India - Bangalore,01,Distribtn Channel 01
+ZICR,Int Consign Returns,5100,Molex Interconnect,01,Distribtn Channel 01
+ZGIT,Global Invt Transfer,1400,Malaysia,01,Sales
+ZPLN,Planning,8200,India - Bangalore,01,Sales
+ZICR,Int Consign Returns,5100,Molex Interconnect,01,Sales
+ZGSO,Global Std Order,2500,Original Shanghai,01,Distribtn Channel 01
+ZXSO,Free replace order,1700,China 1I - Dongguan,01,Sales
+ZRE,Molex  Return wo ref,8000,Molex Zetronic,01,Distribtn Channel 01
+ZPLN,Planning,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZGRC,Local Return Dropshp,3100,United States,01,Sales
+ZRE,Molex  Return wo ref,8000,Zetronic S.r.l.,01,Distribtn Channel 01
+ZOR,Molex Standard Order,1100,Japan,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,8670,PMC Suzhou PMTC,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,1500,Thailand,01,Distribtn Channel 01
+ZAZU,Con.P/U extagt.-U.S.,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZCR,Credit Memo nonsales,8100,MCES Australia,01,Distribtn Channel 01
+ZGRE,Drp Cred (Dumy Dely),2200,Korea,01,Sales
+ZGSS,Global Sample Order,7800,Woodhead France WIC,01,Sales
+ZDMR,Debit Memo Request,6190,Medisize OY,01,Sales
+ZGPS,Global Project Order,1500,Thailand,01,Distribtn Channel 01
+ZRI,vmi nonsales return,3100,United States,01,Sales
+ZDMR,Debit Memo Request,3400,PMC Costa Mesa,01,Sales
+AG,Quotation,2600,China 3 - WGC,01,Distribtn Channel 01
+ZE15,S.Agr.Planning -Auto,5500,Ettlingen,01,Distribtn Channel 01
+ZE11,S.Agr.- w/ATP interc,1300,Taiwan,01,Sales
+ZE02,EDI from z3dv po y01,2600,China 3 - WGC,01,Sales
+ZCMR,Credit Memo Request,3650,Phillips-Medisize,01,Distribtn Channel 01
+ZPDR,Proj Serv Debit Req,8670,PMC Suzhou PMTC,01,Distribtn Channel 01
+ZGPM,Molex Scrap Pre.Mtl,2700,China 4 - ChengDu,01,Sales
+ZGIT,Global Invt Transfer,2600,China 3 - WGC,01,Sales
+ZPSC,Proj Serv Credit Req,8110,Molex (China) Invst.,01,Sales
+ZGIR,Global Invt Return,1400,Malaysia,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,0900,FEML Far East,01,Distribtn Channel 01
+ZSCR,Serv Credit Request,1700,China 1I - Dongguan,01,Sales
+ZSF,Sales Force Order,8200,India - Bangalore,01,Distribtn Channel 01
+ZPDR,Proj Serv Debit Req,8520,PMC Suzhou PMMC,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,2100,CFPA-Taiwan,01,Distribtn Channel 01
+ZOR,Molex Standard Order,1700,China 1I - Dongguan,01,Sales
+ZSDR,Serv Debit Request,4000,Woodhead Canada,01,Distribtn Channel 01
+ZGRC,Local Return Dropshp,3100,United States,01,Distribtn Channel 01
+ZICF,Int Consign Fill-up,1400,Malaysia,01,Sales
+ZPDR,Proj Serv Debit Req,8670,PMC Suzhou PMTC,01,Sales
+ZSED,Del.by ExtAgt.- U.S.,2400,Hong Kong,01,Sales
+ZGSO,Global Std Order,1100,Japan,01,Distribtn Channel 01
+ZECI,Ext Consign Issue,2800,China Trading Co.,01,Sales
+ZSED,Del.by ExtAgt.- U.S.,8110,Molex (China) Invst.,01,Sales
+ZECI,Ext Consign Issue,2400,Hong Kong,01,Sales
+ZVDO,Sell to Vendor,1100,Japan,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,5100,Molex Interconnect,01,Distribtn Channel 01
+ZICI,Int Consign Iss. imm,1100,Japan,01,Distribtn Channel 01
+ZECF,Ext Consign Fill-up,2800,China Trading Co.,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,2800,China Trading Co.,01,Sales
+ZGSO,Global Std Order,8110,Molex (China) Invst.,01,Sales
+ZECF,Ext Consign Fill-up,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZICI,Int Consign Iss. imm,1100,Japan,01,Sales
+ZE01,EDI Std Order 01,2800,China Trading Co.,01,Distribtn Channel 01
+ZCCR,CRM S&D Cr Memo,2400,Hong Kong/China Ltd,01,Sales
+ZGSR,Global Std Return,4000,Molex Canada Ltd.,01,Sales
+ZECF,Ext Consign Fill-up,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,6200,Ireland,01,Sales
+ZECR,Ext Consign Returns,2400,Hong Kong,01,Distribtn Channel 01
+ZGSR,Global Std Return,2100,CFPA-Taiwan,01,Sales
+ZCCI,InterCo S&D Cr Memo,6200,Ireland,01,Sales
+ZOR,Molex Standard Order,2400,Hong Kong,01,Distribtn Channel 01
+ZGSS,Global Sample Order,1100,Japan,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,5100,MIGMBH,01,Sales
+ZE01,EDI Std Order 01,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZGSS,Global Sample Order,1200,Singapore,01,Sales
+ZGSO,Global Std Order,8200,India - Bangalore,01,Sales
+ZE14,S.Agr.EXt/ATP / JIT,1400,Malaysia,01,Sales
+ZE11,S.Agr.- w/ATP interc,5100,Molex Interconnect,01,Sales
+ZE12,S.Agr.- w/ATP,8200,India - Bangalore,01,Distribtn Channel 01
+ZGIT,Global Invt Transfer,6200,Ireland,01,Sales
+ZRE,Molex  Return wo ref,6100,Molex CES Poland,01,Distribtn Channel 01
+ZGSR,Global Std Return,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZGSR,Global Std Return,1700,China 1I - Dongguan,01,Sales
+ZRE,Molex  Return wo ref,5100,Molex Interconnect,01,Distribtn Channel 01
+ZGSO,Global Std Order,4000,Woodhead Canada,01,Sales
+ZECD,Drop Consign Fill-up,1200,Singapore,01,Distribtn Channel 01
+ZCCR,CRM S&D Cr Memo,1200,Singapore,01,Sales
+ZCMR,Credit Memo Request,1200,Singapore,01,Sales
+ZRI,vmi nonsales return,1700,China 1I - Dongguan,01,Sales
+ZGSR,Global Std Return,1300,Taiwan,01,Distribtn Channel 01
+ZICI,Int Consign Iss. imm,1200,Singapore,01,Sales
+ZECP,Ext Consign Pick-up,2200,Korea,01,Sales
+ZDMR,Debit Memo Request,5100,MIGMBH,01,Sales
+ZCCR,CRM S&D Cr Memo,5100,MIGMBH,01,Distribtn Channel 01
+ZPRD,DM P.O.T. Br-DC,3100,United States,01,Sales
+ZE11,S.Agr.- w/ATP interc,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZECR,Ext Consign Returns,5100,MIGMBH,01,Sales
+ZVDO,Sell to Vendor,2200,Korea,01,Distribtn Channel 01
+ZPTC,CM P.O.T. DC-Br,3100,United States,01,Distribtn Channel 01
+ZGSO,Global Std Order,6880,Molex HDC Italy,01,Distribtn Channel 01
+ZGPS,Global Project Order,8670,PMC Suzhou PMTC,01,Sales
+ZGRE,Drp Cred (Dumy Dely),8000,Molex Zetronic,01,Sales
+ZGSO,Global Std Order,8790,PMC Suzhou P3,01,Distribtn Channel 01
+ZPLN,Planning,2400,Hong Kong/China Ltd,01,Sales
+ZSDR,Serv Debit Request,1200,Singapore,01,Sales
+ZCMR,Credit Memo Request,8140,Oplink ZhuHai,01,Sales
+TAM,Delivery Order,5100,Molex Interconnect,01,Distribtn Channel 01
+ZGRE,Drp Cred (Dumy Dely),5600,Biberach,01,Sales
+ZE14,S.Agr.EXt/ATP / JIT,8200,India - Bangalore,01,Sales
+ZGPM,Molex Scrap Pre.Mtl,2600,China 3 - WGC,01,Distribtn Channel 01
+ZRI,vmi nonsales return,5900,Molex Sp. Z o o.,01,Sales
+ZSPI,Spec. Price Request,2400,Hong Kong,01,Sales
+ZIQR,InterCompany Quote,2400,Hong Kong,01,Sales
+ZGQV,DM Global Quotation,3100,United States,01,Sales
+ZGHK,HK/SHG Std Order,1700,China 1I - Dongguan,01,Sales
+ZGSO,Global Std Order,1400,Malaysia,01,Distribtn Channel 01
+ZGSR,Global Std Return,4000,Woodhead Canada,01,Sales
+ZE12,S.Agr.- w/ATP,5100,Molex Interconnect,01,Sales
+ZGSR,Global Std Return,3100,United States,01,Sales
+ZECD,Drop Consign Fill-up,2400,Hong Kong,01,Sales
+ZGSO,Global Std Order,8000,Zetronic S.r.l.,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,2400,Hong Kong,01,Distribtn Channel 01
+ZGSR,Global Std Return,5900,Molex Sp. Z o o.,01,Distribtn Channel 01
+ZGSR,Global Std Return,5700,Bretten,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,2200,Korea,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZXSR,Return free of charg,3100,United States,01,Sales
+Z11R,ze11 into Cons Rtns,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,4000,Woodhead Canada,01,Sales
+ZGSO,Global Std Order,2600,China 3 - WGC,01,Sales
+ZRE,Molex  Return wo ref,4000,Woodhead Canada,01,Sales
+ZDMR,Debit Memo Request,1500,Thailand,01,Sales
+ZGSO,Global Std Order,8100,MCES Australia,01,Sales
+ZGSO,Global Std Order,1200,Singapore,01,Sales
+Z11R,ze11 into Cons Rtns,1400,Malaysia,01,Sales
+ZGOT,Molex Scrap Sales,8000,Molex Zetronic,01,Distribtn Channel 01
+ZECD,Drop Consign Fill-up,2400,Hong Kong/China Ltd,01,Sales
+BM1,Agrmnt Deb.Memo Req.,4000,Woodhead Canada,01,Sales
+ZGQV,DM Global Quotation,2400,Hong Kong/China Ltd,01,Sales
+ZECP,Ext Consign Pick-up,2400,Hong Kong/China Ltd,01,Sales
+ZCMR,Credit Memo Request,1300,Taiwan,01,Distribtn Channel 01
+ZECR,Ext Consign Returns,2800,China Trading Co.,01,Sales
+ZGSR,Global Std Return,1400,Malaysia,01,Sales
+ZECI,Ext Consign Issue,1300,Taiwan,01,Sales
+ZDMR,Debit Memo Request,8100,MCES Australia,01,Distribtn Channel 01
+ZGSO,Global Std Order,1900,Vietnam,01,Distribtn Channel 01
+ZGHK,HK/SHG Std Order,1400,Malaysia,01,Distribtn Channel 01
+ZICF,Int Consign Fill-up,2800,China Trading Co.,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,2300,RF/Micro - Jiangsu,01,Sales
+ZSCR,Serv Credit Request,5100,Molex Interconnect,01,Sales
+ZGPS,Global Project Order,5100,MIGMBH,01,Sales
+ZGQP,Global Quotation,2400,Hong Kong,01,Distribtn Channel 01
+ZGQP,Global Quotation,5600,Biberach,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,1700,China 1I - Dongguan,01,Sales
+ZECF,Ext Consign Fill-up,8160,SDP Telecom,01,Sales
+ZICP,Int Consign Pick-up,3100,United States,01,Sales
+ZGRE,Drp Cred (Dumy Dely),6830,Molex Cables Italy,01,Distribtn Channel 01
+ZICP,Int Consign Pick-up,1200,Singapore,01,Distribtn Channel 01
+ZGSR,Global Std Return,2500,Original Shanghai,01,Sales
+ZGQS,Sys. Sales Quote,1200,Singapore,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,5500,Ettlingen,01,Distribtn Channel 01
+ZGIQ,Renewal Inquiry,1500,Thailand,01,Sales
+ZGIQ,Renewal Inquiry,2400,Hong Kong,01,Sales
+ZGSO,Global Std Order,5500,Ettlingen,01,Sales
+TAM,Delivery Order,8000,Zetronic S.r.l.,01,Distribtn Channel 01
+TAM,Delivery Order,8000,Molex Zetronic,01,Sales
+ZE01,EDI Std Order 01,8300,India - Gujarat,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,1500,Thailand,01,Sales
+ZE14,S.Agr.EXt/ATP / JIT,5500,Ettlingen,01,Sales
+ZGQP,Global Quotation,4000,Molex Canada Ltd.,01,Sales
+ZGQS,Sys. Sales Quote,1300,Taiwan,01,Distribtn Channel 01
+ZECR,Ext Consign Returns,3100,United States,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,2800,China Trading Co.,01,Distribtn Channel 01
+ZSF,Sales Force Order,1100,Japan,01,Distribtn Channel 01
+LZM,SchedAgrt w/Dly Ord.,5100,Molex Interconnect,01,Sales
+ZGQP,Global Quotation,3200,Brasil,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,2600,China 3 - WGC,01,Distribtn Channel 01
+ZGSR,Global Std Return,3750,Omni Mfg Services S.,01,Sales
+ZICI,Int Consign Iss. imm,5100,Molex Interconnect,01,Distribtn Channel 01
+ZISR,India  Return w/ex,8300,India - Gujarat,01,Distribtn Channel 01
+ZE15,S.Agr.Planning -Auto,5600,Biberach,01,Distribtn Channel 01
+ZE15,S.Agr.Planning -Auto,5100,Molex Interconnect,01,Distribtn Channel 01
+ZGQP,Global Quotation,1300,Taiwan,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,3560,Interconnect Systems,01,Sales
+ZGRE,Drp Cred (Dumy Dely),4000,Woodhead Canada,01,Distribtn Channel 01
+TAM,Delivery Order,1100,Japan,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,3560,Interconnect Systems,01,Distribtn Channel 01
+ZGSS,Global Sample Order,8140,Oplink ZhuHai,01,Sales
+AG,Quotation,8800,India Tooling,01,Distribtn Channel 01
+ZHKR,HK/SHG Order Return,8140,Oplink ZhuHai,01,Distribtn Channel 01
+ZIQR,InterCompany Quote,1500,Thailand,01,Distribtn Channel 01
+ZSPI,Spec. Price Request,1100,Japan,01,Distribtn Channel 01
+ZGSR,Global Std Return,3080,Woodhead Industries,01,Sales
+ZGSO,Global Std Order,8300,India - Gujarat,01,Distribtn Channel 01
+ZRI,vmi nonsales return,2600,China 3 - WGC,01,Sales
+ZECR,Ext Consign Returns,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZE11,S.Agr.- w/ATP interc,8110,Molex (China) Invst.,01,Sales
+ZDMO,Debit Memo Others,1100,Japan,01,Sales
+ZGSS,Global Sample Order,6200,Ireland,01,Sales
+ZGSS,Global Sample Order,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZSCR,Serv Credit Request,5100,MIGMBH,01,Sales
+ZGPS,Global Project Order,3100,United States,01,Distribtn Channel 01
+ZSF,Sales Force Order,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,3100,United States,01,Distribtn Channel 01
+ZECI,Ext Consign Issue,8160,SDP Telecom,01,Sales
+ZSCR,Serv Credit Request,2800,China Trading Co.,01,Distribtn Channel 01
+ZPLN,Planning,2400,Hong Kong,01,Distribtn Channel 01
+ZGHK,HK/SHG Std Order,2300,RF/Micro - Jiangsu,01,Sales
+ZHKR,HK/SHG Order Return,1400,Malaysia,01,Distribtn Channel 01
+ZGTX,Hist. Monthly Lease,3100,United States,01,Sales
+ZGIR,Global Invt Return,6200,Ireland,01,Sales
+ZSF,Sales Force Order,5100,MIGMBH,01,Distribtn Channel 01
+ZSF,Sales Force Order,2400,Hong Kong,01,Distribtn Channel 01
+ZGQP,Global Quotation,2200,Korea,01,Distribtn Channel 01
+ZSF,Sales Force Order,2800,China Trading Co.,01,Distribtn Channel 01
+ZCR,Credit Memo nonsales,1400,Malaysia,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,1900,Vietnam,01,Sales
+ZE13,S.Agr.ExAg.- w/ATP,2400,Hong Kong,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,2900,Molex Philippines,01,Sales
+ZSDR,Serv Debit Request,5100,Molex Interconnect,01,Distribtn Channel 01
+ZGSR,Global Std Return,1000,Dalian,01,Distribtn Channel 01
+ZGSR,Global Std Return,3750,Omni Mfg Services S.,01,Distribtn Channel 01
+ZIQR,InterCompany Quote,1300,Taiwan,01,Distribtn Channel 01
+ZIQR,InterCompany Quote,1300,Taiwan,01,Sales
+AG,Quotation,3100,United States,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,8670,PMC Suzhou PMTC,01,Sales
+ZIQR,InterCompany Quote,1200,Singapore,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,8790,PMC Suzhou P3,01,Sales
+ZECP,Ext Consign Pick-up,3100,United States,01,Sales
+ZE13,S.Agr.ExAg.- w/ATP,5500,Ettlingen,01,Distribtn Channel 01
+ZGPM,Molex Scrap Pre.Mtl,1900,Vietnam,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,2400,Hong Kong,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,1700,China 1I - Dongguan,01,Sales
+ZIQR,InterCompany Quote,1500,Thailand,01,Sales
+MAKO,Dely Order Correctn,8000,Zetronic S.r.l.,01,Distribtn Channel 01
+ZSP,Sample Order,5100,MIGMBH,01,Sales
+ZECR,Ext Consign Returns,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,3560,Interconnect Systems,01,Distribtn Channel 01
+ZE15,S.Agr.Planning -Auto,2400,Hong Kong/China Ltd,01,Sales
+ZSF,Sales Force Order,5100,MIGMBH,01,Sales
+ZE14,S.Agr.EXt/ATP / JIT,2200,Korea,01,Sales
+ZCMT,Tooling Credit memo,3100,United States,01,Sales
+ZRE,Molex  Return wo ref,8140,Oplink ZhuHai,01,Distribtn Channel 01
+ZHKR,HK/SHG Order Return,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZCMX,InterCo Credit Memo,5900,Molex Sp. Z o o.,01,Distribtn Channel 01
+ROB,Returns BR own NF,3200,Brasil,01,Sales
+ZSCR,Serv Credit Request,1200,Singapore,01,Sales
+ZE13,S.Agr.ExAg.- w/ATP,1700,China 1I - Dongguan,01,Sales
+ZGSO,Global Std Order,3080,Woodhead Industries,01,Sales
+LZM,SchedAgrt w/Dly Ord.,5700,Bretten,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,8520,PMC Suzhou PMMC,01,Distribtn Channel 01
+ZSRZ,Returns Sched.Agrmnt,3100,United States,01,Sales
+ZRZU,ConsRet.extagt.-U.S.,1400,Malaysia,01,Distribtn Channel 01
+B1,Reb.Credit Memo Req.,1200,Singapore,01,Sales
+ZGSR,Global Std Return,8000,Zetronic S.r.l.,01,Sales
+ZGSO,Global Std Order,7800,Woodhead France WIC,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,1400,Malaysia,01,Sales
+ZGOT,Molex Scrap Sales,2400,Hong Kong,01,Sales
+ZXSO,Free replace order,4000,Woodhead Canada,01,Sales
+ZGTP,Global 3rd party ord,5100,Molex Interconnect,01,Sales
+ZGPM,Molex Scrap Pre.Mtl,1400,Malaysia,01,Distribtn Channel 01
+ZGTP,Global 3rd party ord,5100,MIGMBH,01,Sales
+ZGSE,Global Slow & Excess,5900,Molex Sp. Z o o.,01,Distribtn Channel 01
+ZGSS,Global Sample Order,8160,SDP Telecom,01,Distribtn Channel 01
+ZGRE,Drp Cred (Dumy Dely),2400,Hong Kong,01,Sales
+ZGRE,Drp Cred (Dumy Dely),2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,5500,Ettlingen,01,Distribtn Channel 01
+ZGQP,Global Quotation,1000,Dalian,01,Distribtn Channel 01
+ZHKR,HK/SHG Order Return,1300,Taiwan,01,Sales
+ZRE,Molex  Return wo ref,7800,Woodhead France WIC,01,Sales
+ZHKR,HK/SHG Order Return,1300,Taiwan,01,Distribtn Channel 01
+ZXSO,Free replace order,8520,PMC Suzhou PMMC,01,Distribtn Channel 01
+ZGSE,Global Slow & Excess,8200,India - Bangalore,01,Distribtn Channel 01
+ZGIQ,Renewal Inquiry,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,6830,Molex Cables Italy,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,6830,Molex Cables Italy,01,Sales
+ZPSC,Proj Serv Credit Req,8520,PMC Suzhou PMMC,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,8140,Oplink ZhuHai,01,Distribtn Channel 01
+ZJ01,Global Std Order,5100,Molex Interconnect,01,Distribtn Channel 01
+ZGIT,Global Invt Transfer,5900,Molex Sp. Z o o.,01,Sales
+ZDMR,Debit Memo Request,1000,Dalian,01,Sales
+ZGIR,Global Invt Return,1000,Dalian,01,Distribtn Channel 01
+ZHKR,HK/SHG Order Return,1500,Thailand,01,Distribtn Channel 01
+ZECR,Ext Consign Returns,2200,Korea,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,6300,Medisize Ireland LTD,01,Distribtn Channel 01
+ZRI,vmi nonsales return,1100,Japan,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,5700,Bretten,01,Sales
+ZGIR,Global Invt Return,2200,Korea,01,Distribtn Channel 01
+ZCR,Credit Memo nonsales,3100,United States,01,Sales
+ZCMR,Credit Memo Request,5600,Biberach,01,Distribtn Channel 01
+ZGSS,Global Sample Order,5800,Kosice,01,Sales
+ZPLN,Planning,1500,Thailand,01,Distribtn Channel 01
+ZGS1,Sample Order Oplink,5100,Molex Interconnect,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,4000,Woodhead Canada,01,Sales
+ZICI,Int Consign Iss. imm,1700,China 1I - Dongguan,01,Sales
+ZGSE,Global Slow & Excess,6200,Ireland,01,Sales
+ZCMR,Credit Memo Request,8670,PMC Suzhou PMTC,01,Sales
+ZGQV,DM Global Quotation,6200,Ireland,01,Distribtn Channel 01
+B2,Rebate Correctn Rqst,4000,Molex Canada Ltd.,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,3650,Phillips-Medisize,01,Sales
+ZE20,S.Agr.-direct ship,3100,United States,01,Sales
+ZE11,S.Agr.- w/ATP interc,8000,Molex Zetronic,01,Distribtn Channel 01
+ZPCM,Proj Credit Memo Req,5100,Molex Interconnect,01,Sales
+ZPLN,Planning,1300,Taiwan,01,Sales
+ZRI,vmi nonsales return,8000,Molex Zetronic,01,Sales
+ZDMR,Debit Memo Request,2600,China 3 - WGC,01,Sales
+ZE20,S.Agr.-direct ship,5100,Molex Interconnect,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,5600,Biberach,01,Sales
+ZCMR,Credit Memo Request,0900,FEML Far East,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,6190,Medisize OY,01,Distribtn Channel 01
+ZGIT,Global Invt Transfer,2600,China 3 - WGC,01,Distribtn Channel 01
+ZICF,Int Consign Fill-up,1400,Malaysia,01,Distribtn Channel 01
+ZGSO,Global Std Order,3400,PMC Costa Mesa,01,Distribtn Channel 01
+ZOR,Molex Standard Order,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZDRK,Poland Corr. Debit,5900,Molex Sp. Z o o.,01,Distribtn Channel 01
+ZAZU,Con.P/U extagt.-U.S.,6200,Ireland,01,Sales
+AG,Quotation,1200,Singapore,01,Distribtn Channel 01
+ZGSR,Global Std Return,7800,Woodhead France WIC,01,Sales
+ZRE,Molex  Return wo ref,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZE15,S.Agr.Planning -Auto,5500,Ettlingen,01,Sales
+ZSCR,Serv Credit Request,8100,MCES Australia,01,Distribtn Channel 01
+ZECP,Ext Consign Pick-up,7800,Woodhead France WIC,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,1100,Japan,01,Distribtn Channel 01
+LZM,SchedAgrt w/Dly Ord.,5100,MIGMBH,01,Distribtn Channel 01
+TAM,Delivery Order,5100,MIGMBH,01,Sales
+ZGQV,DM Global Quotation,8110,Molex (China) Invst.,01,Sales
+ZGQV,DM Global Quotation,5100,MIGMBH,01,Sales
+ZSDR,Serv Debit Request,2200,Korea,01,Sales
+ZECI,Ext Consign Issue,1100,Japan,01,Sales
+ZGTT,Tool Ord Yrly Bill,3100,United States,01,Sales
+ZGSS,Global Sample Order,8200,India - Bangalore,01,Distribtn Channel 01
+ZGSS,Global Sample Order,8200,India - Bangalore,01,Sales
+Z11R,ze11 into Cons Rtns,3100,United States,01,Sales
+ZECI,Ext Consign Issue,2800,China Trading Co.,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,3100,United States,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,8000,Molex Zetronic,01,Sales
+ZXSO,Free replace order,3560,Interconnect Systems,01,Sales
+ZGTP,Global 3rd party ord,1100,Japan,01,Distribtn Channel 01
+Z11R,ze11 into Cons Rtns,2400,Hong Kong/China Ltd,01,Sales
+ZGQP,Global Quotation,1400,Malaysia,01,Distribtn Channel 01
+TAM,Delivery Order,3750,Omni Mfg Services S.,01,Distribtn Channel 01
+TAM,Delivery Order,8200,India - Bangalore,01,Sales
+ZECF,Ext Consign Fill-up,5100,Molex Interconnect,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,3100,United States,01,Distribtn Channel 01
+ZGSO,Global Std Order,2400,Hong Kong,01,Sales
+ZGSO,Global Std Order,2800,China Trading Co.,01,Sales
+ZE01,EDI Std Order 01,6830,Molex Cables Italy,01,Sales
+TAM,Delivery Order,1300,Taiwan,01,Sales
+ZGSO,Global Std Order,6100,Molex CES Poland,01,Distribtn Channel 01
+ZXSO,Free replace order,3100,United States,01,Distribtn Channel 01
+ZXSO,Free replace order,3100,United States,01,Sales
+ZE11,S.Agr.- w/ATP interc,2400,Hong Kong,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,1400,Malaysia,01,Distribtn Channel 01
+ZGFR,Global Freight Order,5100,Molex Interconnect,01,Sales
+ZICI,Int Consign Iss. imm,8110,Molex (China) Invst.,01,Sales
+ZGSO,Global Std Order,1300,Taiwan,01,Distribtn Channel 01
+ZGSO,Global Std Order,1300,Taiwan,01,Sales
+ZGSS,Global Sample Order,8300,India - Gujarat,01,Sales
+ZECI,Ext Consign Issue,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,4000,Woodhead Canada,01,Sales
+ZGSS,Global Sample Order,3560,Interconnect Systems,01,Distribtn Channel 01
+ZPSC,Proj Serv Credit Req,3100,United States,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,8670,PMC Suzhou PMTC,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,1200,Singapore,01,Sales
+AG,Quotation,8800,India Tooling,01,Sales
+ZSCR,Serv Credit Request,3560,Interconnect Systems,01,Distribtn Channel 01
+ZCCR,CRM S&D Cr Memo,5100,MIGMBH,01,Sales
+ZSF,Sales Force Order,5100,Molex Interconnect,01,Distribtn Channel 01
+ZGSO,Global Std Order,4000,Woodhead Canada,01,Distribtn Channel 01
+ZGQP,Global Quotation,2800,China Trading Co.,01,Sales
+ZHKR,HK/SHG Order Return,1200,Singapore,01,Distribtn Channel 01
+ZRZU,ConsRet.extagt.-U.S.,3100,United States,01,Sales
+ZECP,Ext Consign Pick-up,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZGSR,Global Std Return,2400,Hong Kong,01,Sales
+ZE01,EDI Std Order 01,5100,Molex Interconnect,01,Sales
+ZGPS,Global Project Order,6360,Phillips Medisize DK,01,Sales
+ZGQS,Sys. Sales Quote,2400,Hong Kong/China Ltd,01,Sales
+ZRE,Molex  Return wo ref,5100,MIGMBH,01,Sales
+ZPSC,Proj Serv Credit Req,5100,MIGMBH,01,Distribtn Channel 01
+ZGSR,Global Std Return,6120,Phillips Medisize Sl,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,1300,Taiwan,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,5100,Molex Interconnect,01,Distribtn Channel 01
+ZCCR,CRM S&D Cr Memo,2400,Hong Kong,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,1200,Singapore,01,Distribtn Channel 01
+Z11R,ze11 into Cons Rtns,8110,Molex (China) Invst.,01,Sales
+ZGSS,Global Sample Order,5500,Ettlingen,01,Distribtn Channel 01
+ZSCR,Serv Credit Request,2200,Korea,01,Distribtn Channel 01
+ZE11,S.Agr.- w/ATP interc,2400,Hong Kong,01,Sales
+ZOR,Molex Standard Order,8110,Molex (China) Invst.,01,Sales
+ZXSR,Return free of charg,4000,Molex Canada Ltd.,01,Sales
+ZGTT,Tool Ord Yrly Bill,1000,Dalian,01,Sales
+ZECI,Ext Consign Issue,3750,Omni Mfg Services S.,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,1900,Vietnam,01,Sales
+ZE11,S.Agr.- w/ATP interc,1400,Malaysia,01,Distribtn Channel 01
+ZXSR,Return free of charg,3560,Interconnect Systems,01,Distribtn Channel 01
+ZECP,Ext Consign Pick-up,2800,China Trading Co.,01,Distribtn Channel 01
+MAKO,Dely Order Correctn,5100,Molex Interconnect,01,Sales
+ZE01,EDI Std Order 01,4000,Woodhead Canada,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,1300,Taiwan,01,Sales
+ZECR,Ext Consign Returns,1200,Singapore,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,1200,Singapore,01,Sales
+ZCMT,Tooling Credit memo,3100,United States,01,Distribtn Channel 01
+ZCMO,Credit Memo Others,1100,Japan,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,5100,Molex Interconnect,01,Distribtn Channel 01
+ZGIQ,Renewal Inquiry,2400,Hong Kong,01,Distribtn Channel 01
+ZGIQ,Renewal Inquiry,1200,Singapore,01,Distribtn Channel 01
+MAKO,Dely Order Correctn,3100,United States,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,2700,China 4 - ChengDu,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,8790,PMC Suzhou P3,01,Distribtn Channel 01
+ZGPM,Molex Scrap Pre.Mtl,2200,Korea,01,Sales
+ZSED,Del.by ExtAgt.- U.S.,1200,Singapore,01,Sales
+Z11R,ze11 into Cons Rtns,2400,Hong Kong,01,Sales
+ZECD,Drop Consign Fill-up,5100,Molex Interconnect,01,Distribtn Channel 01
+ZICP,Int Consign Pick-up,2400,Hong Kong,01,Distribtn Channel 01
+ZRZU,ConsRet.extagt.-U.S.,5100,MIGMBH,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,8100,MCES Australia,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,3800,US Temp-Flex,01,Distribtn Channel 01
+ZGSR,Global Std Return,6100,Molex CES Poland,01,Distribtn Channel 01
+ZE15,S.Agr.Planning -Auto,3100,United States,01,Distribtn Channel 01
+BM1,Agrmnt Deb.Memo Req.,3100,United States,01,Distribtn Channel 01
+BM1,Agrmnt Deb.Memo Req.,3100,United States,01,Sales
+ZGPM,Molex Scrap Pre.Mtl,1200,Singapore,01,Distribtn Channel 01
+ZAZU,Con.P/U extagt.-U.S.,5100,Molex Interconnect,01,Sales
+ZE12,S.Agr.- w/ATP,2600,China 3 - WGC,01,Distribtn Channel 01
+ZGSO,Global Std Order,3750,Omni Mfg Services S.,01,Distribtn Channel 01
+ZHKR,HK/SHG Order Return,2400,Hong Kong,01,Distribtn Channel 01
+ZECI,Ext Consign Issue,8140,Oplink ZhuHai,01,Sales
+ZGSR,Global Std Return,5100,Molex Interconnect,01,Distribtn Channel 01
+ZCR,Credit Memo nonsales,1400,Malaysia,01,Sales
+ZGSR,Global Std Return,8160,SDP Telecom,01,Sales
+ZGSO,Global Std Order,8100,MCES Australia,01,Distribtn Channel 01
+ZECI,Ext Consign Issue,1700,China 1I - Dongguan,01,Sales
+ZGOT,Molex Scrap Sales,8670,PMC Suzhou PMTC,01,Sales
+ZECR,Ext Consign Returns,5100,Molex Interconnect,01,Sales
+ZGQV,DM Global Quotation,8160,SDP Telecom,01,Distribtn Channel 01
+ZGSO,Global Std Order,2700,China 4 - ChengDu,01,Distribtn Channel 01
+ZGSS,Global Sample Order,2700,China 4 - ChengDu,01,Sales
+ZE12,S.Agr.- w/ATP,3750,Omni Mfg Services S.,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,1400,Malaysia,01,Sales
+ZECI,Ext Consign Issue,1400,Malaysia,01,Distribtn Channel 01
+ZRI,vmi nonsales return,1200,Singapore,01,Distribtn Channel 01
+ZRI,vmi nonsales return,6200,Ireland,01,Sales
+ZRE,Molex  Return wo ref,8100,MCES Australia,01,Sales
+ZGSR,Global Std Return,3800,US Temp-Flex,01,Distribtn Channel 01
+ZGCC,Global Pay Card Ordr,3100,United States,01,Distribtn Channel 01
+ZGSO,Global Std Order,5700,Bretten,01,Distribtn Channel 01
+ZICP,Int Consign Pick-up,3100,United States,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,8160,SDP Telecom,01,Distribtn Channel 01
+TAM,Delivery Order,5500,Ettlingen,01,Sales
+ZICI,Int Consign Iss. imm,5100,Molex Interconnect,01,Sales
+ZGSE,Global Slow & Excess,8100,MCES Australia,01,Distribtn Channel 01
+TAM,Delivery Order,8000,Molex Zetronic,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,1000,Dalian,01,Sales
+ZE15,S.Agr.Planning -Auto,5600,Biberach,01,Sales
+ZRE,Molex  Return wo ref,3560,Interconnect Systems,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,1100,Japan,01,Sales
+MAKO,Dely Order Correctn,3100,United States,01,Sales
+ZDMR,Debit Memo Request,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+TAV,Standard Order (VMI),5100,Molex Interconnect,01,Sales
+ZSF,Sales Force Order,4000,Molex Canada Ltd.,01,Sales
+BM1,Agrmnt Deb.Memo Req.,4000,Woodhead Canada,01,Distribtn Channel 01
+ZGSR,Global Std Return,2800,China Trading Co.,01,Sales
+ZICI,Int Consign Iss. imm,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZGSO,Global Std Order,4000,Molex Canada Ltd.,01,Sales
+ZSP,Sample Order,1200,Singapore,01,Sales
+ZGOT,Molex Scrap Sales,1100,Japan,01,Sales
+ZGQV,DM Global Quotation,8140,Oplink ZhuHai,01,Sales
+ZE11,S.Agr.- w/ATP interc,5100,MIGMBH,01,Distribtn Channel 01
+ZJIN,Indication Order,1100,Japan,01,Sales
+ZGQP,Global Quotation,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZGTL,Global Tooling Lease,3100,United States,01,Sales
+ZE01,EDI Std Order 01,6100,Molex CES Poland,01,Sales
+ZE12,S.Agr.- w/ATP,1300,Taiwan,01,Sales
+ZDMR,Debit Memo Request,3560,Interconnect Systems,01,Distribtn Channel 01
+ZSF,Sales Force Order,1100,Japan,01,Sales
+ZGQV,DM Global Quotation,1500,Thailand,01,Sales
+ZE13,S.Agr.ExAg.- w/ATP,1200,Singapore,01,Sales
+ZJ01,Global Std Order,1100,Japan,01,Sales
+ZECI,Ext Consign Issue,1400,Malaysia,01,Sales
+ZGHK,HK/SHG Std Order,2400,Hong Kong/China Ltd,01,Sales
+ZE11,S.Agr.- w/ATP interc,2200,Korea,01,Distribtn Channel 01
+ZGSR,Global Std Return,3800,US Temp-Flex,01,Sales
+LZM,SchedAgrt w/Dly Ord.,1200,Singapore,01,Distribtn Channel 01
+ZGIQ,Renewal Inquiry,1600,China 1- Dongguan,01,Sales
+ZXSR,Return free of charg,5100,Molex Interconnect,01,Sales
+AG,Quotation,1400,Malaysia,01,Sales
+ZPDR,Proj Serv Debit Req,3100,United States,01,Distribtn Channel 01
+ZPLN,Planning,2600,China 3 - WGC,01,Sales
+ZE12,S.Agr.- w/ATP,2200,Korea,01,Sales
+ZE13,S.Agr.ExAg.- w/ATP,1400,Malaysia,01,Distribtn Channel 01
+ZDMX,InterCo Debit Memo,5900,Molex Sp. Z o o.,01,Sales
+LZM,SchedAgrt w/Dly Ord.,8200,India - Bangalore,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,1700,China 1I - Dongguan,01,Sales
+ZE11,S.Agr.- w/ATP interc,1100,Japan,01,Distribtn Channel 01
+ZE13,S.Agr.ExAg.- w/ATP,1300,Taiwan,01,Distribtn Channel 01
+ZGSS,Global Sample Order,3800,US Temp-Flex,01,Sales
+ZCMX,InterCo Credit Memo,3100,United States,01,Distribtn Channel 01
+B1,Reb.Credit Memo Req.,1200,Singapore,01,Distribtn Channel 01
+ZISR,India  Return w/ex,8300,India - Gujarat,01,Sales
+ZGSS,Global Sample Order,8000,Zetronic S.r.l.,01,Sales
+ZE15,S.Agr.Planning -Auto,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,2300,RF/Micro - Jiangsu,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,2300,RF/Micro - Jiangsu,01,Distribtn Channel 01
+ZE13,S.Agr.ExAg.- w/ATP,1300,Taiwan,01,Sales
+ZGIT,Global Invt Transfer,2700,China 4 - ChengDu,01,Distribtn Channel 01
+ZGPM,Molex Scrap Pre.Mtl,1000,Dalian,01,Distribtn Channel 01
+Z11R,ze11 into Cons Rtns,6100,Molex CES Poland,01,Sales
+ZGIT,Global Invt Transfer,1200,Singapore,01,Sales
+ZGQP,Global Quotation,0900,FEML Far East,01,Sales
+ZDMR,Debit Memo Request,3080,Woodhead Industries,01,Sales
+ZGQV,DM Global Quotation,2600,China 3 - WGC,01,Distribtn Channel 01
+ZPDR,Proj Serv Debit Req,3750,Omni Mfg Services S.,01,Distribtn Channel 01
+ZE11,S.Agr.- w/ATP interc,6100,Molex CES Poland,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,5500,Ettlingen,01,Sales
+ZDMR,Debit Memo Request,2500,Original Shanghai,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,2500,Original Shanghai,01,Sales
+ZAZU,Con.P/U extagt.-U.S.,1400,Malaysia,01,Sales
+ZIQR,InterCompany Quote,1600,China 1- Dongguan,01,Sales
+ZGSR,Global Std Return,5500,Ettlingen,01,Distribtn Channel 01
+LZM,SchedAgrt w/Dly Ord.,8000,Molex Zetronic,01,Sales
+ZPSC,Proj Serv Credit Req,3750,Omni Mfg Services S.,01,Sales
+ZSPI,Spec. Price Request,2400,Hong Kong/China Ltd,01,Sales
+LZM,SchedAgrt w/Dly Ord.,8000,Zetronic S.r.l.,01,Sales
+ZGQS,Sys. Sales Quote,2900,Molex Philippines,01,Distribtn Channel 01
+ZECI,Ext Consign Issue,1300,Taiwan,01,Distribtn Channel 01
+ZGSE,Global Slow & Excess,2400,Hong Kong,01,Sales
+ZGSO,Global Std Order,6880,Molex HDC Italy,01,Sales
+ZGSE,Global Slow & Excess,5900,Molex Sp. Z o o.,01,Sales
+ZCMR,Credit Memo Request,8790,PMC Suzhou P3,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,8790,PMC Suzhou P3,01,Sales
+ZGSR,Global Std Return,5800,Kosice,01,Distribtn Channel 01
+ZICP,Int Consign Pick-up,5100,Molex Interconnect,01,Distribtn Channel 01
+ZDR,Debit Memo Request,3100,United States,01,Sales
+ZICP,Int Consign Pick-up,5100,MIGMBH,01,Sales
+ZCMX,InterCo Credit Memo,5900,Molex Sp. Z o o.,01,Sales
+ZCMR,Credit Memo Request,1600,China 1- Dongguan,01,Distribtn Channel 01
+ZRI,vmi nonsales return,5900,Molex Sp. Z o o.,01,Distribtn Channel 01
+ZOR,Molex Standard Order,2800,China Trading Co.,01,Sales
+ZGRE,Drp Cred (Dumy Dely),8000,Zetronic S.r.l.,01,Distribtn Channel 01
+ZGHK,HK/SHG Std Order,1100,Japan,01,Sales
+ZCMR,Credit Memo Request,2600,China 3 - WGC,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,3760,FCT US LLC,01,Sales
+ZE02,EDI from z3dv po y01,3100,United States,01,Distribtn Channel 01
+ZE02,EDI from z3dv po y01,3100,United States,01,Sales
+ZGSS,Global Sample Order,5600,Biberach,01,Sales
+ZCR,Credit Memo nonsales,6200,Ireland,01,Sales
+ZOR,Molex Standard Order,4000,Molex Canada Ltd.,01,Sales
+ZGSR,Global Std Return,2300,RF/Micro - Jiangsu,01,Distribtn Channel 01
+ZGRE,Drp Cred (Dumy Dely),5900,Molex Sp. Z o o.,01,Distribtn Channel 01
+LZM,SchedAgrt w/Dly Ord.,5700,Bretten,01,Sales
+ZSCR,Serv Credit Request,4000,Molex Canada Ltd.,01,Sales
+ZDMX,InterCo Debit Memo,6200,Ireland,01,Sales
+ZJ01,Global Std Order,1200,Singapore,01,Sales
+ZE15,S.Agr.Planning -Auto,1200,Singapore,01,Sales
+ZXSR,Return free of charg,8520,PMC Suzhou PMMC,01,Sales
+ZDMR,Debit Memo Request,1000,Dalian,01,Distribtn Channel 01
+ZICR,Int Consign Returns,3100,United States,01,Distribtn Channel 01
+ZGSR,Global Std Return,3760,FCT US LLC,01,Distribtn Channel 01
+ZGCR,Gbl. Pay Card Return,3100,United States,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,2700,China 4 - ChengDu,01,Distribtn Channel 01
+ZGSS,Global Sample Order,6190,Medisize OY,01,Distribtn Channel 01
+ZXSO,Free replace order,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,5700,Bretten,01,Distribtn Channel 01
+ZRZU,ConsRet.extagt.-U.S.,2200,Korea,01,Distribtn Channel 01
+ZRZU,ConsRet.extagt.-U.S.,2200,Korea,01,Sales
+ZECF,Ext Consign Fill-up,1300,Taiwan,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,1700,China 1I - Dongguan,01,Sales
+ZE14,S.Agr.EXt/ATP / JIT,1500,Thailand,01,Sales
+ZGSO,Global Std Order,3400,PMC Costa Mesa,01,Sales
+ZPLN,Planning,1300,Taiwan,01,Distribtn Channel 01
+ZGSE,Global Slow & Excess,4000,Molex Canada Ltd.,01,Sales
+ZCMX,InterCo Credit Memo,8200,India - Bangalore,01,Distribtn Channel 01
+ZCMX,InterCo Credit Memo,8200,India - Bangalore,01,Sales
+B2,Rebate Correctn Rqst,4000,Molex Canada Ltd.,01,Sales
+ZRE,Molex  Return wo ref,2300,RF/Micro - Jiangsu,01,Sales
+ZGIR,Global Invt Return,2700,China 4 - ChengDu,01,Distribtn Channel 01
+ZGIR,Global Invt Return,2200,Korea,01,Sales
+LZM,SchedAgrt w/Dly Ord.,2800,China Trading Co.,01,Distribtn Channel 01
+ZRI,vmi nonsales return,1300,Taiwan,01,Distribtn Channel 01
+ZICP,Int Consign Pick-up,2200,Korea,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,8140,Oplink ZhuHai,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,8670,PMC Suzhou PMTC,01,Distribtn Channel 01
+ZPLN,Planning,1700,China 1I - Dongguan,01,Sales
+ZE13,S.Agr.ExAg.- w/ATP,6830,Molex Cables Italy,01,Sales
+ZGTT,Tool Ord Yrly Bill,3560,Interconnect Systems,01,Sales
+ZE02,EDI from z3dv po y01,2600,China 3 - WGC,01,Distribtn Channel 01
+ZGIT,Global Invt Transfer,2100,CFPA-Taiwan,01,Sales
+ZGPR,Global Project Order,8100,MCES Australia,01,Sales
+ZGIR,Global Invt Return,3100,United States,01,Sales
+ZSCR,Serv Credit Request,8100,MCES Australia,01,Sales
+ZGRE,Drp Cred (Dumy Dely),8200,India - Bangalore,01,Sales
+ZE02,EDI from z3dv po y01,6200,Ireland,01,Distribtn Channel 01
+ZGSE,Global Slow & Excess,4000,Woodhead Canada,01,Sales
+ZCMX,InterCo Credit Memo,8140,Oplink ZhuHai,01,Distribtn Channel 01
+ZGIT,Global Invt Transfer,2100,CFPA-Taiwan,01,Distribtn Channel 01
+ZOT,Molex Other Sales,1300,Taiwan,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,3330,CVS Mexico,01,Distribtn Channel 01
+ZE11,S.Agr.- w/ATP interc,8000,Zetronic S.r.l.,01,Distribtn Channel 01
+ZRI,vmi nonsales return,3100,United States,01,Distribtn Channel 01
+ZRI,vmi nonsales return,8000,Molex Zetronic,01,Distribtn Channel 01
+ZRI,vmi nonsales return,2800,China Trading Co.,01,Sales
+ZE30,S.Agr.- 3rd party Sh,3100,United States,01,Sales
+ZCMR,Credit Memo Request,0900,FEML Far East,01,Sales
+ZE01,EDI Std Order 01,8140,Oplink ZhuHai,01,Sales
+ZECR,Ext Consign Returns,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,8520,PMC Suzhou PMMC,01,Sales
+ZDMR,Debit Memo Request,8670,PMC Suzhou PMTC,01,Sales
+ZGRE,Drp Cred (Dumy Dely),8200,India - Bangalore,01,Distribtn Channel 01
+ZGHK,HK/SHG Std Order,8160,SDP Telecom,01,Sales
+ZE01,EDI Std Order 01,2400,Hong Kong,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,8110,Molex (China) Invst.,01,Sales
+ZE01,EDI Std Order 01,2300,RF/Micro - Jiangsu,01,Distribtn Channel 01
+ZECF,Ext Consign Fill-up,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZGSO,Global Std Order,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZGSO,Global Std Order,1500,Thailand,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,2100,CFPA-Taiwan,01,Sales
+ZECF,Ext Consign Fill-up,2400,Hong Kong,01,Distribtn Channel 01
+ZGSR,Global Std Return,2400,Hong Kong,01,Distribtn Channel 01
+ZECF,Ext Consign Fill-up,5100,Molex Interconnect,01,Sales
+ZGTG,Global 3rd pty gold,3100,United States,01,Sales
+ZGSO,Global Std Order,1500,Thailand,01,Sales
+ZE01,EDI Std Order 01,8000,Zetronic S.r.l.,01,Distribtn Channel 01
+ZSED,Del.by ExtAgt.- U.S.,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZGSO,Global Std Order,1700,China 1I - Dongguan,01,Sales
+ZE12,S.Agr.- w/ATP,1200,Singapore,01,Sales
+ZGSS,Global Sample Order,2800,China Trading Co.,01,Sales
+ZVDR,Vendor Return,1100,Japan,01,Sales
+ZECP,Ext Consign Pick-up,2800,China Trading Co.,01,Sales
+ZICF,Int Consign Fill-up,1100,Japan,01,Distribtn Channel 01
+ZGSO,Global Std Order,5700,Bretten,01,Sales
+BM1,Agrmnt Deb.Memo Req.,4000,Molex Canada Ltd.,01,Sales
+ZECF,Ext Consign Fill-up,1100,Japan,01,Distribtn Channel 01
+ZICI,Int Consign Iss. imm,2400,Hong Kong,01,Distribtn Channel 01
+ZGSS,Global Sample Order,5100,Molex Interconnect,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,1000,Dalian,01,Sales
+ZECI,Ext Consign Issue,2200,Korea,01,Distribtn Channel 01
+ZGSR,Global Std Return,5100,MIGMBH,01,Distribtn Channel 01
+ZGRE,Drp Cred (Dumy Dely),5100,Molex Interconnect,01,Distribtn Channel 01
+ZGRE,Drp Cred (Dumy Dely),5100,Molex Interconnect,01,Sales
+ZOR,Molex Standard Order,5100,MIGMBH,01,Distribtn Channel 01
+Z11R,ze11 into Cons Rtns,1200,Singapore,01,Distribtn Channel 01
+ZGTR,Tooling Return,3100,United States,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,2400,Hong Kong,01,Sales
+ZDMR,Debit Memo Request,2400,Hong Kong,01,Distribtn Channel 01
+ZECP,Ext Consign Pick-up,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZGSS,Global Sample Order,1500,Thailand,01,Distribtn Channel 01
+ZGSS,Global Sample Order,1500,Thailand,01,Sales
+ZGHK,HK/SHG Std Order,2400,Hong Kong,01,Distribtn Channel 01
+ZGSR,Global Std Return,4000,Woodhead Canada,01,Distribtn Channel 01
+ZGSR,Global Std Return,2600,China 3 - WGC,01,Distribtn Channel 01
+ZICP,Int Consign Pick-up,2400,Hong Kong/China Ltd,01,Sales
+ZCR,Credit Memo nonsales,2200,Korea,01,Distribtn Channel 01
+ZICP,Int Consign Pick-up,2800,China Trading Co.,01,Sales
+ZRE,Molex  Return wo ref,4000,Molex Canada Ltd.,01,Distribtn Channel 01
+ZGSR,Global Std Return,8100,MCES Australia,01,Sales
+ZGSR,Global Std Return,2200,Korea,01,Sales
+ZSF,Sales Force Order,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,1100,Japan,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,3750,Omni Mfg Services S.,01,Sales
+ZE13,S.Agr.ExAg.- w/ATP,2400,Hong Kong/China Ltd,01,Sales
+ZCMR,Credit Memo Request,8520,PMC Suzhou PMMC,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,8000,Zetronic S.r.l.,01,Distribtn Channel 01
+ZGTL,Global Tooling Lease,5100,Molex Interconnect,01,Sales
+ZGSR,Global Std Return,3560,Interconnect Systems,01,Sales
+ZCMR,Credit Memo Request,8300,India - Gujarat,01,Distribtn Channel 01
+TAM,Delivery Order,3750,Omni Mfg Services S.,01,Sales
+ZSDR,Serv Debit Request,8140,Oplink ZhuHai,01,Sales
+ZGRE,Drp Cred (Dumy Dely),6200,Ireland,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,1400,Malaysia,01,Sales
+Z11R,ze11 into Cons Rtns,5100,MIGMBH,01,Sales
+ZGSO,Global Std Order,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,2800,China Trading Co.,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,5100,MIGMBH,01,Distribtn Channel 01
+ZECF,Ext Consign Fill-up,2800,China Trading Co.,01,Sales
+ZSED,Del.by ExtAgt.- U.S.,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZECF,Ext Consign Fill-up,1400,Malaysia,01,Distribtn Channel 01
+ZECD,Drop Consign Fill-up,5100,MIGMBH,01,Sales
+ZGSO,Global Std Order,2400,Hong Kong,01,Distribtn Channel 01
+ZGSS,Global Sample Order,4000,Woodhead Canada,01,Sales
+ZPRC,CM P.O.T. Br-DC,3100,United States,01,Sales
+ZGSS,Global Sample Order,2400,Hong Kong,01,Sales
+ZGSO,Global Std Order,6100,Molex CES Poland,01,Sales
+ZGSR,Global Std Return,5100,Molex Interconnect,01,Sales
+ZECD,Drop Consign Fill-up,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,2400,Hong Kong/China Ltd,01,Sales
+ZGSO,Global Std Order,2100,CFPA-Taiwan,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,1100,Japan,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,3100,United States,01,Sales
+ZE14,S.Agr.EXt/ATP / JIT,5100,Molex Interconnect,01,Sales
+ZGSR,Global Std Return,1500,Thailand,01,Sales
+ZECD,Drop Consign Fill-up,1400,Malaysia,01,Sales
+ZCMR,Credit Memo Request,2100,CFPA-Taiwan,01,Sales
+ZSED,Del.by ExtAgt.- U.S.,2800,China Trading Co.,01,Distribtn Channel 01
+ZCCR,CRM S&D Cr Memo,1200,Singapore,01,Distribtn Channel 01
+ZCMR,Credit Memo Request,4000,Molex Canada Ltd.,01,Sales
+ZICI,Int Consign Iss. imm,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZAZU,Con.P/U extagt.-U.S.,3100,United States,01,Sales
+ZGSR,Global Std Return,1000,Dalian,01,Sales
+ZGSS,Global Sample Order,2200,Korea,01,Sales
+Z11R,ze11 into Cons Rtns,2200,Korea,01,Sales
+ZGSO,Global Std Order,3100,United States,01,Sales
+ZGSO,Global Std Order,2700,China 4 - ChengDu,01,Sales
+ZICF,Int Consign Fill-up,2800,China Trading Co.,01,Sales
+ZGQP,Global Quotation,1200,Singapore,01,Sales
+ZGQV,DM Global Quotation,8160,SDP Telecom,01,Sales
+ZGQS,Sys. Sales Quote,5500,Ettlingen,01,Sales
+TAV,Standard Order (VMI),5100,Molex Interconnect,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,1100,Japan,01,Sales
+ZGPS,Global Project Order,6120,Phillips Medisize Sl,01,Distribtn Channel 01
+ZGSO,Global Std Order,8520,PMC Suzhou PMMC,01,Sales
+ZDMR,Debit Memo Request,3750,Omni Mfg Services S.,01,Sales
+ZSDR,Serv Debit Request,1300,Taiwan,01,Distribtn Channel 01
+ZIQR,InterCompany Quote,2400,Hong Kong,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,5700,Bretten,01,Sales
+ZGSO,Global Std Order,8790,PMC Suzhou P3,01,Sales
+ZGSO,Global Std Order,3330,CVS Mexico,01,Distribtn Channel 01
+ZCMX,InterCo Credit Memo,6200,Ireland,01,Sales
+ZGQS,Sys. Sales Quote,2200,Korea,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,2200,Korea,01,Sales
+ZRZU,ConsRet.extagt.-U.S.,5100,Molex Interconnect,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,5100,MIGMBH,01,Sales
+ZGSO,Global Std Order,2300,RF/Micro - Jiangsu,01,Distribtn Channel 01
+TAM,Delivery Order,5100,Molex Interconnect,01,Sales
+ZGTL,Global Tooling Lease,3100,United States,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZGSO,Global Std Order,5500,Ettlingen,01,Distribtn Channel 01
+ZGSR,Global Std Return,3560,Interconnect Systems,01,Distribtn Channel 01
+ZGSS,Global Sample Order,2300,RF/Micro - Jiangsu,01,Sales
+ZRI,vmi nonsales return,6200,Ireland,01,Distribtn Channel 01
+ZGSR,Global Std Return,5500,Ettlingen,01,Sales
+ZGSO,Global Std Order,8300,India - Gujarat,01,Sales
+ZGSO,Global Std Order,1600,China 1- Dongguan,01,Sales
+TA,Standard Order,8800,India Tooling,01,Sales
+LZM,SchedAgrt w/Dly Ord.,1400,Malaysia,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,8520,PMC Suzhou PMMC,01,Sales
+ZOR,Molex Standard Order,1500,Thailand,01,Distribtn Channel 01
+ZECF,Ext Consign Fill-up,1100,Japan,01,Sales
+ZGRE,Drp Cred (Dumy Dely),5100,MIGMBH,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,5100,MIGMBH,01,Distribtn Channel 01
+ZGSO,Global Std Order,2900,Molex Philippines,01,Sales
+ZE11,S.Agr.- w/ATP interc,2800,China Trading Co.,01,Distribtn Channel 01
+ZECR,Ext Consign Returns,2400,Hong Kong/China Ltd,01,Sales
+ZECP,Ext Consign Pick-up,1100,Japan,01,Sales
+ZXSR,Return free of charg,3560,Interconnect Systems,01,Sales
+ZDMR,Debit Memo Request,4000,Woodhead Canada,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZGQP,Global Quotation,2400,Hong Kong,01,Sales
+ZGSO,Global Std Order,3560,Interconnect Systems,01,Distribtn Channel 01
+ZSF,Sales Force Order,2800,China Trading Co.,01,Sales
+ZSDR,Serv Debit Request,5100,Molex Interconnect,01,Sales
+ZRI,vmi nonsales return,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZGSR,Global Std Return,8140,Oplink ZhuHai,01,Sales
+ZGQP,Global Quotation,0900,FEML Far East,01,Distribtn Channel 01
+ZE12,S.Agr.- w/ATP,8000,Molex Zetronic,01,Sales
+ZGPS,Global Project Order,8790,PMC Suzhou P3,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,6200,Ireland,01,Distribtn Channel 01
+ZSRZ,Returns Sched.Agrmnt,5100,Molex Interconnect,01,Distribtn Channel 01
+ZGQP,Global Quotation,3100,United States,01,Distribtn Channel 01
+ZGQP,Global Quotation,7800,Woodhead France WIC,01,Distribtn Channel 01
+ZGQV,DM Global Quotation,8200,India - Bangalore,01,Sales
+ZGQP,Global Quotation,4000,Molex Canada Ltd.,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,1400,Malaysia,01,Sales
+ZE13,S.Agr.ExAg.- w/ATP,1700,China 1I - Dongguan,01,Distribtn Channel 01
+ZGIQ,Renewal Inquiry,1300,Taiwan,01,Sales
+ZGRE,Drp Cred (Dumy Dely),5700,Bretten,01,Sales
+ZGOT,Molex Scrap Sales,1000,Dalian,01,Distribtn Channel 01
+ZGSR,Global Std Return,3080,Woodhead Industries,01,Distribtn Channel 01
+ZECR,Ext Consign Returns,2800,China Trading Co.,01,Distribtn Channel 01
+ZCMX,InterCo Credit Memo,6200,Ireland,01,Distribtn Channel 01
+ZSRZ,Returns Sched.Agrmnt,5100,Molex Interconnect,01,Sales
+ZICI,Int Consign Iss. imm,5100,MIGMBH,01,Sales
+ZGQP,Global Quotation,1100,Japan,01,Sales
+ZGPR,Global Project Order,3100,United States,01,Sales
+ZGQV,DM Global Quotation,3330,CVS Mexico,01,Sales
+ZGSS,Global Sample Order,5900,Molex Sp. Z o o.,01,Sales
+ZSF,Sales Force Order,3100,United States,01,Distribtn Channel 01
+ZGQS,Sys. Sales Quote,3100,United States,01,Distribtn Channel 01
+ZGSS,Global Sample Order,0900,FEML Far East,01,Distribtn Channel 01
+ZOR,Molex Standard Order,1200,Singapore,01,Sales
+ZGTY,Hist. Yearly Lease,3100,United States,01,Sales
+ZGQS,Sys. Sales Quote,2400,Hong Kong,01,Sales
+ZCMR,Credit Memo Request,6190,Medisize OY,01,Distribtn Channel 01
+ZSDR,Serv Debit Request,5100,MIGMBH,01,Distribtn Channel 01
+ZE14,S.Agr.EXt/ATP / JIT,2200,Korea,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,8110,Molex (China) Invst.,01,Distribtn Channel 01
+ZGIT,Global Invt Transfer,6200,Ireland,01,Distribtn Channel 01
+ZGHK,HK/SHG Std Order,2900,Molex Philippines,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,2600,China 3 - WGC,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,2600,China 3 - WGC,01,Sales
+ZXSR,Return free of charg,1200,Singapore,01,Distribtn Channel 01
+ZICI,Int Consign Iss. imm,1400,Malaysia,01,Distribtn Channel 01
+ZGIT,Global Invt Transfer,1200,Singapore,01,Distribtn Channel 01
+ZE13,S.Agr.ExAg.- w/ATP,5100,MIGMBH,01,Distribtn Channel 01
+ZE13,S.Agr.ExAg.- w/ATP,5100,MIGMBH,01,Sales
+ZXSO,Free replace order,4000,Molex Canada Ltd.,01,Sales
+ZGSR,Global Std Return,8790,PMC Suzhou P3,01,Distribtn Channel 01
+ZGSO,Global Std Order,7800,Woodhead France WIC,01,Sales
+ZSCR,Serv Credit Request,8110,Molex (China) Invst.,01,Sales
+ZCMR,Credit Memo Request,8160,SDP Telecom,01,Sales
+ZE11,S.Agr.- w/ATP interc,5500,Ettlingen,01,Distribtn Channel 01
+ZHKR,HK/SHG Order Return,2600,China 3 - WGC,01,Sales
+ZDMR,Debit Memo Request,6830,Molex Cables Italy,01,Distribtn Channel 01
+ZICF,Int Consign Fill-up,5100,Molex Interconnect,01,Sales
+ZRE,Molex  Return wo ref,2800,China Trading Co.,01,Distribtn Channel 01
+MAKO,Dely Order Correctn,8000,Molex Zetronic,01,Sales
+ZAZU,Con.P/U extagt.-U.S.,2200,Korea,01,Sales
+MAKO,Dely Order Correctn,8000,Zetronic S.r.l.,01,Sales
+ZXSO,Free replace order,8520,PMC Suzhou PMMC,01,Sales
+ZXSO,Free replace order,1200,Singapore,01,Sales
+ZGOT,Molex Scrap Sales,8800,India Tooling,01,Sales
+ZSP,Sample Order,5100,MIGMBH,01,Distribtn Channel 01
+ZJ01,Global Std Order,5100,Molex Interconnect,01,Sales
+ZDMX,InterCo Debit Memo,1400,Malaysia,01,Distribtn Channel 01
+ZE01,EDI Std Order 01,3760,FCT US LLC,01,Distribtn Channel 01
+Z3DV, 3rd party diverted,2200,Korea,01,Sales
+ZE01,EDI Std Order 01,5800,Kosice,01,Distribtn Channel 01
+ZSP,Sample Order,3560,Interconnect Systems,01,Sales
+ZDMR,Debit Memo Request,5500,Ettlingen,01,Sales
+TAM,Delivery Order,2200,Korea,01,Distribtn Channel 01
+AG,Quotation,2400,Hong Kong,01,Sales
+ZCMR,Credit Memo Request,2300,RF/Micro - Jiangsu,01,Distribtn Channel 01
+ZGQP,Global Quotation,8300,India - Gujarat,01,Distribtn Channel 01
+ZGRE,Drp Cred (Dumy Dely),6100,Molex CES Poland,01,Sales
+ZGSR,Global Std Return,6120,Phillips Medisize Sl,01,Sales
+ZPDR,Proj Serv Debit Req,5100,Molex Interconnect,01,Distribtn Channel 01
+ZRE,Molex  Return wo ref,1500,Thailand,01,Sales
+ZPDR,Proj Serv Debit Req,5100,MIGMBH,01,Sales
+ZDMR,Debit Memo Request,8140,Oplink ZhuHai,01,Sales
+ZGOT,Molex Scrap Sales,2400,Hong Kong/China Ltd,01,Sales
+ZECI,Ext Consign Issue,2300,RF/Micro - Jiangsu,01,Sales
+ZOR,Molex Standard Order,2400,Hong Kong,01,Sales
+ZECF,Ext Consign Fill-up,2300,RF/Micro - Jiangsu,01,Sales
+ZICF,Int Consign Fill-up,2400,Hong Kong/China Ltd,01,Distribtn Channel 01
+ZGSS,Global Sample Order,8160,SDP Telecom,01,Sales
+ZJ01,Global Std Order,2400,Hong Kong,01,Distribtn Channel 01
+ZSCR,Serv Credit Request,4000,Woodhead Canada,01,Sales
+ZXSR,Return free of charg,8520,PMC Suzhou PMMC,01,Distribtn Channel 01
+ZGOT,Molex Scrap Sales,3100,United States,01,Sales
+ZICR,Int Consign Returns,3100,United States,01,Sales
+ZICR,Int Consign Returns,5100,MIGMBH,01,Distribtn Channel 01
+ZPLN,Planning,0900,FEML Far East,01,Sales
+ZGOT,Molex Scrap Sales,8520,PMC Suzhou PMMC,01,Distribtn Channel 01
+ZECR,Ext Consign Returns,1300,Taiwan,01,Distribtn Channel 01
+ZDMR,Debit Memo Request,5700,Bretten,01,Sales
+B2,Rebate Correctn Rqst,3100,United States,01,Sales

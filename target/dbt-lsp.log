@@ -1,0 +1,39 @@
+==================== 2025-12-16T20:24:11.552176Z | ad1dcf46-23ca-4c74-ae4b-60ed4e05517c ====================
+20:24:11.552363 [info ]: Starting dbt LSP server
+20:24:11.552459 [info ]: Connecting to LSP client on port 8000
+20:24:11.561386 [info ]: Successfully connected to LSP client
+20:24:11.561416 [info ]: Creating LSP service...
+20:24:11.620788 [info ]: Creating LSP server...
+20:24:11.620811 [info ]: Starting LSP server...
+20:24:13.023347 [info ]: Started loading project
+20:24:13.033298 [info ]: Finished loading project [  0.01s]
+==================== 2025-12-16T20:32:07.102821Z | aa6a12c5-df42-4f8d-9bc6-849565a755c7 ====================
+20:32:07.102842 [info ]: Starting dbt LSP server
+20:32:07.102854 [info ]: Connecting to LSP client on port 8000
+20:32:07.106211 [info ]: Successfully connected to LSP client
+20:32:07.106227 [info ]: Creating LSP service...
+20:32:07.147126 [info ]: Creating LSP server...
+20:32:07.147145 [info ]: Starting LSP server...
+20:32:07.161376 [info ]: Started loading project
+20:32:07.169319 [info ]: Finished loading project [  0.01s]
+21:41:58.030574 [info ]: Started loading project
+21:41:58.070352 [info ]: Finished loading project [  0.04s]
+21:41:58.221038 [info ]: Started loading project
+21:41:58.224181 [info ]: Finished loading project [  0.00s]
+21:42:00.042815 [info ]: Started loading project
+21:42:00.045200 [info ]: Finished loading project [  0.00s]
+==================== 2025-12-18T17:23:22.697242Z | 0bf08439-5e3f-4a09-8aeb-755a2902c774 ====================
+17:23:22.697345 [info ]: Starting dbt LSP server
+17:23:22.697407 [info ]: Connecting to LSP client on port 8000
+17:23:22.700617 [info ]: Successfully connected to LSP client
+17:23:22.700645 [info ]: Creating LSP service...
+17:23:22.759847 [info ]: Creating LSP server...
+17:23:22.759867 [info ]: Starting LSP server...
+17:23:22.879517 [info ]: Started loading project
+17:23:22.891203 [info ]: Finished loading project [  0.01s]
+17:29:10.443333 [info ]: Started loading project
+17:29:10.445838 [info ]: Finished loading project [  0.00s]
+17:29:10.759534 [info ]: Started loading project
+17:29:10.760572 [info ]: Finished loading project [  0.00s]
+17:29:16.193993 [info ]: Started loading project
+17:29:16.194308 [info ]: Finished loading project [  0.00s]
