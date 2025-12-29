@@ -36,18 +36,11 @@ src/datacenter_layerA/
    ```
 
 ## Running the pipeline
-The pipeline expects an input workbook or CSV at `INPUT_SITE_LIST_PATH` with the schema described in the project goal. To execute end-to-end:
-1. Ensure the `.env` file exists with the variables above.
-2. Place your `site_list.xlsx` or `site_list.csv` under `data/input/` (or point `INPUT_SITE_LIST_PATH` to your custom location).
-3. Run the ETL entrypoint:
-   ```bash
-   python -m src.datacenter_layerA.run_pipeline
-   ```
-4. Review outputs in `data/out/`:
-   - `data/out/tables/` contains CSV exports for `site_list`, `url_candidates`, `spec_observations`, `project_drivers_layerA`, `source_registry`, `geo_enrichment`, `dq_report`, and `changelog`.
-   - `data/out/datacenter_layerA.xlsx` consolidates the same tables into a single workbook for convenience.
-
-The pipeline is polite by default (domain delays, retries) and scopes scraping to the domains present in the seed URLs unless `ALLOW_EXTERNAL_SOURCES=true`.
+Run against the configured site list (processes seeds and discovered URLs, extracts specs, performs inference, and writes outputs as CSVs plus an Excel workbook):
+```bash
+python -m src.datacenter_layerA.run_pipeline
+```
+Outputs are written to `data/out/` including per-table CSVs in `data/out/tables/` and a consolidated `data/out/datacenter_layerA.xlsx` workbook.
 
 ## Testing
 Execute unit tests with:
